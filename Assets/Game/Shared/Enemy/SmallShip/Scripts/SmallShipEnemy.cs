@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class SmallShipEnemy : EnemyBase
+public class SmallShipEnemy : BaseEnemy
 {
     public override void Initialize(BaseEnemyData data)
     {

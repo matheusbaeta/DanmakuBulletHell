@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class EnemyBase : MonoBehaviour
+public class BaseEnemy : MonoBehaviour
 {
     public virtual void Initialize(BaseEnemyData data)
     {

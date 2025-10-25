@@ -7,7 +7,7 @@ using UnityEngine;
 public class EnemyData
 {
     public float time;
-    public EnemyBase enemy;
+    public BaseEnemy enemy;
     public BaseEnemyData data;
 }
 
