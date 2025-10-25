@@ -130,7 +130,7 @@ GameObject:
   - component: {fileID: 1491954520}
   - component: {fileID: 1491954519}
   m_Layer: 0
-  m_Name: LevelController
+  m_Name: GameplayController
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -305,5 +305,5 @@ Transform:
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
-  - {fileID: 1996605763}
   - {fileID: 1491954520}
+  - {fileID: 1996605763}

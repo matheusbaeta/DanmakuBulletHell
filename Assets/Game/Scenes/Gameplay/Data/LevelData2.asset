@@ -10,13 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 836de35d7fcb49445935ac970522d434, type: 3}
-  m_Name: LevelData
+  m_Name: LevelData2
   m_EditorClassIdentifier: Assembly-CSharp::LevelData
-  levelName: Level 1
+  levelName: Level 2
   enemyData:
   - time: 2
     enemy: {fileID: 2625877052089682968, guid: 6dc2b1ebe0b58804da8d5c24a6aa6c6c, type: 3}
-    data: {fileID: 11400000, guid: 76509827038aaa248aab4f4a33108574, type: 2}
+    data: {fileID: 11400000, guid: 568ec33c0f77f444ca5c9361bb7973ca, type: 2}
   - time: 2
     enemy: {fileID: 2625877052089682968, guid: 6dc2b1ebe0b58804da8d5c24a6aa6c6c, type: 3}
-    data: {fileID: 11400000, guid: 568ec33c0f77f444ca5c9361bb7973ca, type: 2}
+    data: {fileID: 11400000, guid: 76509827038aaa248aab4f4a33108574, type: 2}
