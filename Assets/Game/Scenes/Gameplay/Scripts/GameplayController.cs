@@ -20,6 +20,7 @@ public class GameplayController : MonoBehaviour
 
     private void Awake()
     {
+        if (data == null) return;
         StartCoroutine(RunLevel());
     }
 
