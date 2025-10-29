@@ -3,12 +3,17 @@ using System.Collections.Generic;
 
 public class BulletSystem : MonoBehaviour
 {
-    public Transform playerTransform;
-    public float playerHitDistance;
+    public static BulletSystem Instance;
+
+    private void Awake()
+    {
+        Instance = this;
+    }
+
+    public PlayerController player;
     public ComputeShader bulletCompute;
     public GPUInstanceBatch gpuInstanceBatch;
     public int maxBullets = 10000;
-    public float bulletSpeed = 5f;
     public Vector2 maxDistance = new Vector2(10, 12);
 
     public struct BulletData
@@ -30,7 +35,7 @@ public class BulletSystem : MonoBehaviour
     private uint threadGroupSizeX;
 
     public int BulletCount => _bulletCount;
-    private int _bulletCount;
+    [SerializeField] private int _bulletCount;
 
     public bool playerHit;
     private uint[] playerHitData = new uint[1];
@@ -93,13 +98,12 @@ public class BulletSystem : MonoBehaviour
         // Set buffer
         bulletCompute.SetBuffer(kernel, "playerHitBuffer", playerHitBuffer);
 
-        bulletCompute.SetVector("playerPosition", playerTransform.position);
-        bulletCompute.SetFloat("playerHitDistance", playerHitDistance);
+        bulletCompute.SetVector("playerPosition", player.transform.position);
+        bulletCompute.SetFloat("playerHitDistance", player.collisionDistance);
 
         bulletCompute.SetFloat("maxX", maxDistance.x);
         bulletCompute.SetFloat("maxY", maxDistance.y);
         bulletCompute.SetFloat("deltaTime", Time.deltaTime);
-        bulletCompute.SetFloat("speed", bulletSpeed);
         bulletCompute.SetInt("bulletCount", _bulletCount);
         bulletCompute.SetBuffer(kernel, "bullets", bulletBuffer);
         bulletCompute.SetBuffer(kernel, "matrices", matrixBuffer);

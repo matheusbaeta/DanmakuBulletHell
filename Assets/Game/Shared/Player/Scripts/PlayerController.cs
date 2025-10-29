@@ -2,11 +2,12 @@ using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-public class PlayerMovement : MonoBehaviour
+public class PlayerController : MonoBehaviour
 {
     public BulletSystem bulletSystem;
     public SpriteRenderer spriteRenderer;
     public float speed;
+    public float collisionDistance;
 
     public void OnMove(InputValue inputValue)
     {

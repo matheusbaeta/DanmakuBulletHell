@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 836de35d7fcb49445935ac970522d434, type: 3}
+  m_Name: TestLevelData
+  m_EditorClassIdentifier: Assembly-CSharp::LevelData
+  levelName: Level 2
+  enemyData:
+  - time: 1
+    enemy: {fileID: 3122594927901557410, guid: 821bd860b5713e94ba6271572af705fa, type: 3}
+    data: {fileID: 11400000, guid: b231e75b365c38d49972ab8bf01ecd57, type: 2}
+  - time: 1
+    enemy: {fileID: 3122594927901557410, guid: 821bd860b5713e94ba6271572af705fa, type: 3}
+    data: {fileID: 11400000, guid: b231e75b365c38d49972ab8bf01ecd57, type: 2}
+  - time: 1
+    enemy: {fileID: 3122594927901557410, guid: 821bd860b5713e94ba6271572af705fa, type: 3}
+    data: {fileID: 11400000, guid: b231e75b365c38d49972ab8bf01ecd57, type: 2}
+  - time: 1
+    enemy: {fileID: 3122594927901557410, guid: 821bd860b5713e94ba6271572af705fa, type: 3}
+    data: {fileID: 11400000, guid: b231e75b365c38d49972ab8bf01ecd57, type: 2}
+  - time: 1
+    enemy: {fileID: 3122594927901557410, guid: 821bd860b5713e94ba6271572af705fa, type: 3}
+    data: {fileID: 11400000, guid: b231e75b365c38d49972ab8bf01ecd57, type: 2}
+  - time: 1
+    enemy: {fileID: 3122594927901557410, guid: 821bd860b5713e94ba6271572af705fa, type: 3}
+    data: {fileID: 11400000, guid: b231e75b365c38d49972ab8bf01ecd57, type: 2}
+  - time: 5
+    enemy: {fileID: 3122594927901557410, guid: 821bd860b5713e94ba6271572af705fa, type: 3}
+    data: {fileID: 11400000, guid: b231e75b365c38d49972ab8bf01ecd57, type: 2}
+  - time: 1
+    enemy: {fileID: 3122594927901557410, guid: 821bd860b5713e94ba6271572af705fa, type: 3}
+    data: {fileID: 11400000, guid: b231e75b365c38d49972ab8bf01ecd57, type: 2}
+  - time: 1
+    enemy: {fileID: 3122594927901557410, guid: 821bd860b5713e94ba6271572af705fa, type: 3}
+    data: {fileID: 11400000, guid: b231e75b365c38d49972ab8bf01ecd57, type: 2}
+  - time: 1
+    enemy: {fileID: 3122594927901557410, guid: 821bd860b5713e94ba6271572af705fa, type: 3}
+    data: {fileID: 11400000, guid: b231e75b365c38d49972ab8bf01ecd57, type: 2}
+  - time: 1
+    enemy: {fileID: 3122594927901557410, guid: 821bd860b5713e94ba6271572af705fa, type: 3}
+    data: {fileID: 11400000, guid: b231e75b365c38d49972ab8bf01ecd57, type: 2}
+  - time: 1
+    enemy: {fileID: 3122594927901557410, guid: 821bd860b5713e94ba6271572af705fa, type: 3}
+    data: {fileID: 11400000, guid: b231e75b365c38d49972ab8bf01ecd57, type: 2}

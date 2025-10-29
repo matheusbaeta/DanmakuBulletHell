@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd3c7c479a3f29a48b51c81ed3c8bf96, type: 3}
+  m_Name: Fairy1Data
+  m_EditorClassIdentifier: Assembly-CSharp::Fairy1Data
+  initialPosition: {x: -3.5, y: 12}
+  fireRate: 1
+  shootSpeed: 4
+  movingSpeed: 2
+  steps:
+  - endPosition: {x: -2, y: 6}
+    fireWhileMoving: 1
+    shoots: 0
+    waitTime: 0
+  - endPosition: {x: 3.5, y: 3}
+    fireWhileMoving: 1
+    shoots: 0
+    waitTime: 0
+  - endPosition: {x: 2, y: -3}
+    fireWhileMoving: 1
+    shoots: 0
+    waitTime: 0
+  - endPosition: {x: -6, y: -6}
+    fireWhileMoving: 1
+    shoots: 0
+    waitTime: 0

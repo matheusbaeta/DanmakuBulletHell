@@ -119,58 +119,6 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1 &367013582
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 367013584}
-  - component: {fileID: 367013583}
-  m_Layer: 0
-  m_Name: IndirectSpriteBatch
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 0
---- !u!114 &367013583
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 367013582}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 71993b4bfb3ea144b858c7856503bc48, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::BulletController
-  material: {fileID: 2100000, guid: cefb9d9811ade914bb0b7cfa85199b8a, type: 2}
-  quadMesh: {fileID: 0}
-  sprite: {fileID: 21300000, guid: f7e988f418503d7468923511d748cc60, type: 3}
-  _matrices: []
-  _capacity: 0
-  _instanceCount: 0
-  _indexToId: 
-  _nextId: 0
---- !u!4 &367013584
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 367013582}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1139142941
 GameObject:
   m_ObjectHideFlags: 0
@@ -308,6 +256,7 @@ MonoBehaviour:
   bulletSystem: {fileID: 1857506143}
   spriteRenderer: {fileID: 1139142943}
   speed: 1
+  collisionDistance: 0.5
 --- !u!1 &1491954518
 GameObject:
   m_ObjectHideFlags: 0
@@ -337,6 +286,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a92a879fb93c9a04ebfbfee1c4e57fd3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::LevelController
+  debugData:
+    levelData: {fileID: 11400000, guid: cee56d79a05686f409491362fed912fd, type: 2}
 --- !u!4 &1491954520
 Transform:
   m_ObjectHideFlags: 0
@@ -344,56 +295,6 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1491954518}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1542440423
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1542440425}
-  - component: {fileID: 1542440424}
-  m_Layer: 0
-  m_Name: BulletController
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 0
---- !u!114 &1542440424
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1542440423}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 983f92f39df84be468b501cb09cb6769, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::BulletController
-  indirectSpriteBatch: {fileID: 367013583}
-  quantity: 600
-  speed: 3
-  reset: 0.2
-  time: 0
-  mainCamera: {fileID: 0}
---- !u!4 &1542440425
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1542440423}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
@@ -478,13 +379,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8a680885eef302d46b19907f953cefe0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BulletSystem
-  playerTransform: {fileID: 1139142944}
-  playerHitDistance: 0.5
+  player: {fileID: 1139142945}
   bulletCompute: {fileID: 7200000, guid: 2df7aee46b332ac4891edf6daf561ff0, type: 3}
   gpuInstanceBatch: {fileID: 1602979330}
-  maxBullets: 100000
-  bulletSpeed: 10
+  maxBullets: 10000
   maxDistance: {x: 6.2, y: 10.6}
+  _bulletCount: 0
   playerHit: 0
 --- !u!4 &1857506144
 Transform:
@@ -517,7 +417,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1865578359
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -530,9 +430,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f374fe97283fef4599b8eef09033848, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BulletSpawner
-  system: {fileID: 1857506143}
-  fireInterval: 0.05
-  ringCount: 80
+  speed: 10
+  fireInterval: 0.2
+  ringCount: 32
 --- !u!4 &1865578360
 Transform:
   m_ObjectHideFlags: 0
@@ -692,8 +592,6 @@ SceneRoots:
   - {fileID: 1491954520}
   - {fileID: 1996605763}
   - {fileID: 1139142944}
-  - {fileID: 367013584}
-  - {fileID: 1542440425}
   - {fileID: 1602979331}
   - {fileID: 1857506144}
   - {fileID: 1865578360}

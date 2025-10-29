@@ -1,7 +1,9 @@
+using System;
 using System.Collections;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+[Serializable]
 public class GameplayData
 {
     public LevelData levelData;
@@ -12,6 +14,8 @@ public class GameplayController : MonoBehaviour
     private static string sceneName = "Gameplay";
     private static GameplayData data;
 
+    public GameplayData debugData;
+
     public static void Show(GameplayData gameplayData)
     {
         data = gameplayData;
@@ -20,7 +24,7 @@ public class GameplayController : MonoBehaviour
 
     private void Awake()
     {
-        if (data == null) return;
+        if (data == null) data = debugData;
         StartCoroutine(RunLevel());
     }
 
