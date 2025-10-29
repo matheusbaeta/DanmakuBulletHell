@@ -4,7 +4,11 @@ struct BulletData
 {
     float3 position;
     float3 direction;
+    float radius;
     float alive;
+    float2 uvOffset;
+    float2 uvSize;
+    float2 uvScale;
 };
 
 RWStructuredBuffer<BulletData> bullets;
@@ -38,15 +42,15 @@ void CSMain(uint3 id : SV_DispatchThreadID)
     if (abs(b.position.x) > maxX || abs(b.position.y) > maxY)
         b.alive = 0;
 
-    if (distance(b.position, playerPosition) < playerHitDistance)
+    if (distance(b.position, playerPosition) < (playerHitDistance + b.radius))
         playerHitBuffer[0] = 1;
 
     bullets[i] = b;
 
     // Create transform matrix
     float4x4 m = float4x4(
-        1, 0, 0, b.position.x,
-        0, 1, 0, b.position.y,
+        b.uvScale.x, 0, 0, b.position.x,
+        0, b.uvScale.y, 0, b.position.y,
         0, 0, 1, b.position.z,
         0, 0, 0, 1
     );

@@ -20,7 +20,11 @@ public class BulletSystem : MonoBehaviour
     {
         public Vector3 position;
         public Vector3 direction;
+        public float radius;
         public float alive; // 1 = alive, 0 = dead
+        public Vector2 uvOffset;
+        public Vector2 uvSize;
+        public Vector2 uvScale;
     }
 
     private ComputeBuffer bulletBuffer;
@@ -44,7 +48,7 @@ public class BulletSystem : MonoBehaviour
     {
         gpuInstanceBatch.Initialize();
 
-        bulletBuffer = new ComputeBuffer(maxBullets, sizeof(float) * 7, ComputeBufferType.Structured);
+        bulletBuffer = new ComputeBuffer(maxBullets, sizeof(float) * 14, ComputeBufferType.Structured);
         matrixBuffer = new ComputeBuffer(maxBullets, 64, ComputeBufferType.Structured);
         playerHitBuffer = new ComputeBuffer(1, sizeof(uint), ComputeBufferType.Structured);
 
@@ -55,33 +59,39 @@ public class BulletSystem : MonoBehaviour
         bulletCompute.GetKernelThreadGroupSizes(kernel, out threadGroupSizeX, out _, out _);
 
         gpuInstanceBatch.SetMatrixBuffer(matrixBuffer, 0);
-
     }
 
-    public void SpawnBullet(Vector3 position, Vector3 direction)
+    public void SpawnBullet(Vector3 position, Vector3 direction, Sprite sprite, float radius)
     {
         int indexToUse = -1;
 
         if (freeIndices.Count > 0)
         {
-            // Reuse a dead bullet slot
             indexToUse = freeIndices.Dequeue();
             freeIndicesSet.Remove(indexToUse);
         }
         else if (_bulletCount < maxBullets)
         {
-            // Create new bullet
             indexToUse = _bulletCount++;
         }
 
-        if (indexToUse == -1)
-            return; // all slots busy, no spawn possible
+        if (indexToUse == -1) return;
+
+        Texture tex = sprite.texture;
+        Rect rect = sprite.textureRect;
+
+        Vector2 uvOffset = new Vector2(rect.x / tex.width, rect.y / tex.height);
+        Vector2 uvSize = new Vector2(rect.width / tex.width, rect.height / tex.height);
 
         cpuBullets[indexToUse] = new BulletData
         {
             position = position,
             direction = direction,
-            alive = 1
+            radius = radius,
+            alive = 1,
+            uvSize = uvSize,
+            uvOffset = uvOffset,
+            uvScale = sprite.rect.size / sprite.pixelsPerUnit,
         };
 
         bulletBuffer.SetData(cpuBullets, indexToUse, indexToUse, 1);
@@ -126,6 +136,7 @@ public class BulletSystem : MonoBehaviour
         playerHit = playerHitData[0] == 1;
 
         gpuInstanceBatch.SetMatrixBuffer(matrixBuffer, _bulletCount);
+        gpuInstanceBatch.SetBulletBuffer(bulletBuffer);
         gpuInstanceBatch.Render();
     }
 

@@ -9,6 +9,8 @@ public class Fairy1Data : BaseEnemyData
     public float fireRate;
     public float shootSpeed;
     public float movingSpeed;
+    public float bulletRadius;
+    public Sprite bulletSprite;
 
     public List<Fairy1DataStep> steps;
 }

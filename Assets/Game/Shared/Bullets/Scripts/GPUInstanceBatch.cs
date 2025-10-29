@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.Rendering;
+using UnityEngine.U2D;
 
 public class GPUInstanceBatch : MonoBehaviour
 {
@@ -8,14 +9,10 @@ public class GPUInstanceBatch : MonoBehaviour
     public int maxInstances = 100000;
 
     private ComputeBuffer argsBuffer;
-    private ComputeBuffer matrixBuffer;
     private int instanceCount;
 
     public void Initialize()
     {
-        if (matrixBuffer != null) return;
-
-        matrixBuffer = new ComputeBuffer(maxInstances, 64, ComputeBufferType.Default);
         argsBuffer = new ComputeBuffer(1, 5 * sizeof(uint), ComputeBufferType.IndirectArguments);
 
         uint[] args = {
@@ -28,14 +25,17 @@ public class GPUInstanceBatch : MonoBehaviour
         argsBuffer.SetData(args);
 
         material.enableInstancing = true;
-        material.SetBuffer("_PerInstanceData", matrixBuffer);
     }
 
     public void SetMatrixBuffer(ComputeBuffer buffer, int count)
     {
         instanceCount = count;
-        matrixBuffer = buffer;
-        material.SetBuffer("_PerInstanceData", matrixBuffer);
+        material.SetBuffer("_PerInstanceData", buffer);
+    }
+
+    public void SetBulletBuffer(ComputeBuffer buffer)
+    {
+        material.SetBuffer("bullets", buffer);
     }
 
     public void Render()

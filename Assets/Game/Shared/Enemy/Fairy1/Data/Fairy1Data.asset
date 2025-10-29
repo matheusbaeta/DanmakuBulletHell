@@ -16,6 +16,8 @@ MonoBehaviour:
   fireRate: 1
   shootSpeed: 4
   movingSpeed: 2
+  bulletRadius: 0.1
+  bulletSprite: {fileID: 723685568, guid: 7062c6ff6aabcd644b10d5bf4defef60, type: 3}
   steps:
   - endPosition: {x: -2, y: 6}
     fireWhileMoving: 1
