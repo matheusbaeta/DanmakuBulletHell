@@ -29,7 +29,7 @@ public class Fairy1Enemy : BaseEnemy
                 movingTimer -= Time.deltaTime;
                 if (movingTimer < 0f)
                 {
-                    ShootToPlayer(data.shootSpeed);
+                    ShootToPlayer(data);
                     movingTimer = data.fireRate;
                 }
                 yield return null;
@@ -37,7 +37,7 @@ public class Fairy1Enemy : BaseEnemy
 
             for (var i = 0; i < step.shoots; i++)
             {
-                ShootToPlayer(data.shootSpeed);
+                ShootToPlayer(data);
                 yield return new WaitForSeconds(data.fireRate);
             }
 
@@ -47,10 +47,10 @@ public class Fairy1Enemy : BaseEnemy
         Destroy(gameObject);
     }
 
-    private void ShootToPlayer(float speed)
+    private void ShootToPlayer(Fairy1Data data)
     {
         Vector3 direction = (BulletSystem.Instance.player.transform.position - transform.position).normalized;
 
-        BulletSystem.Instance.SpawnBullet(transform.position, direction * speed);
+        BulletSystem.Instance.SpawnBullet(transform.position, direction * data.shootSpeed, data.bulletSprite, data.bulletRadius);
     }
 }

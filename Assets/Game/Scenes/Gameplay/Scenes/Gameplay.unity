@@ -256,7 +256,7 @@ MonoBehaviour:
   bulletSystem: {fileID: 1857506143}
   spriteRenderer: {fileID: 1139142943}
   speed: 1
-  collisionDistance: 0.5
+  collisionDistance: 0.1
 --- !u!1 &1491954518
 GameObject:
   m_ObjectHideFlags: 0
@@ -417,7 +417,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &1865578359
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -430,9 +430,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f374fe97283fef4599b8eef09033848, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BulletSpawner
-  speed: 10
-  fireInterval: 0.2
+  sprite: {fileID: 874343242196921964, guid: 7062c6ff6aabcd644b10d5bf4defef60, type: 3}
+  speed: 4
+  fireInterval: 2
   ringCount: 32
+  bulletRadius: 0.5
 --- !u!4 &1865578360
 Transform:
   m_ObjectHideFlags: 0

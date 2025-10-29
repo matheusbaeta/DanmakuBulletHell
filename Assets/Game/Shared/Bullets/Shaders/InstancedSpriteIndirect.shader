@@ -19,8 +19,20 @@ Shader "Custom/InstancedSpriteIndirect_NoUV"
             #pragma target 4.5
             #include "UnityCG.cginc"
 
+            struct BulletData
+            {
+                float3 position;
+                float3 direction;
+                float radius;
+                float alive;
+                float2 uvOffset;
+                float2 uvSize;
+                float2 uvScale;
+            };
+
             sampler2D _MainTex;
             StructuredBuffer<float4x4> _PerInstanceData;
+            StructuredBuffer<BulletData> bullets;
 
             struct appdata
             {
@@ -39,6 +51,7 @@ Shader "Custom/InstancedSpriteIndirect_NoUV"
             {
                 v2f o;
                 float4x4 m = _PerInstanceData[v.instanceID];
+                BulletData b = bullets[v.instanceID];
                 
                 // Transform vertex by instance matrix
                 float4 worldPos = mul(m, v.vertex);
@@ -46,7 +59,7 @@ Shader "Custom/InstancedSpriteIndirect_NoUV"
                 // Then transform by the global ViewProjection matrix
                 o.vertex = mul(UNITY_MATRIX_VP, worldPos);
 
-                o.uv = v.uv;
+                o.uv = v.uv * b.uvSize + b.uvOffset;
                 return o;
             }
 

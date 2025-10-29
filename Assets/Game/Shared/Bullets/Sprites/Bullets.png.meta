@@ -1,10 +1,85 @@
 fileFormatVersion: 2
-guid: f7e988f418503d7468923511d748cc60
+guid: 7062c6ff6aabcd644b10d5bf4defef60
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2208703988740019828
-    second: Bullet_0
+      213: 874343242196921964
+    second: Bullets_0
+  - first:
+      213: -7976837497307082302
+    second: Bullets_1
+  - first:
+      213: -7803065417098437583
+    second: Bullets_2
+  - first:
+      213: 7431529995326980795
+    second: Bullets_3
+  - first:
+      213: -7779215486825634471
+    second: Bullets_4
+  - first:
+      213: 830317617348258784
+    second: Bullets_5
+  - first:
+      213: 6112890488319390909
+    second: Bullets_6
+  - first:
+      213: 1757937406519661826
+    second: Bullets_7
+  - first:
+      213: -2121471355247410076
+    second: Bullets_8
+  - first:
+      213: 3619374306951625730
+    second: Bullets_9
+  - first:
+      213: -7398920399615116625
+    second: Bullets_10
+  - first:
+      213: 1017609225550985244
+    second: Bullets_11
+  - first:
+      213: 2941505409271155289
+    second: Bullets_12
+  - first:
+      213: -3507833246552792370
+    second: Bullets_13
+  - first:
+      213: -5417137058416166357
+    second: Bullets_14
+  - first:
+      213: -3543048863620948104
+    second: Bullets_15
+  - first:
+      213: 4311957265778303553
+    second: Bullets_16
+  - first:
+      213: 2031301648050754763
+    second: Bullets_17
+  - first:
+      213: 8781172507622064882
+    second: Bullets_18
+  - first:
+      213: 380848690993824820
+    second: Bullets_19
+  - first:
+      213: -5139595501397214509
+    second: Bullets_20
+  - first:
+      213: -8025264709436843619
+    second: Bullets_21
+  - first:
+      213: -2159571600584141652
+    second: Bullets_22
+  - first:
+      213: 3020426036130856944
+    second: Bullets_23
+  - first:
+      213: 8481577158663800423
+    second: Bullets_24
+  - first:
+      213: -3248768135920844227
+    second: Bullets_25
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +121,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -113,13 +188,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Bullet_0
+      name: RedBullet1
       rect:
         serializedVersion: 2
-        x: 1
-        y: 1
-        width: 14
-        height: 14
+        x: 32
+        y: 208
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +203,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 47656d65394e6ae10800000000000000
-      internalID: 2208703988740019828
+      spriteID: c6e29eadb8a422c00800000000000000
+      internalID: 874343242196921964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallWhiteBullet1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae3619a677f0d547b4f4ae513b8d1a3
+      internalID: 723685568
       vertices: []
       indices: 
       edges: []
@@ -138,7 +235,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: f93432a416bbf304b8cc57084290c065
     internalID: 0
     vertices: []
     indices: 
@@ -146,9 +243,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":256.0,"y":256.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Bullet_0: 2208703988740019828
+      RedBullet1: 874343242196921964
+      SmallWhiteBullet1: 723685568
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
