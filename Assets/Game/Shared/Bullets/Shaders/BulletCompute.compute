@@ -1,0 +1,81 @@
+/*
+UPDATES AN ARRAY OF BULLETS EACH FRAME
+*/
+
+// Each #kernel tells which function to compile; you can have many kernels
+#pragma kernel CSMain
+
+// Layout of how bullets are going to be stored in buffer
+struct BulletData
+{
+    float3 position;
+    float3 direction;
+    float radius;
+    float alive;
+    float2 uvOffset;
+    float2 uvSize;
+    float2 uvScale;
+};
+
+// Read/Write buffers
+RWStructuredBuffer<BulletData> bullets;
+RWStructuredBuffer<float4x4> matrices;
+RWStructuredBuffer<uint> playerHitBuffer; // indicate if player has been hit
+
+float3 playerPosition;
+float playerHitDistance;
+
+float maxX;
+float maxY;
+
+float deltaTime;
+int bulletCount;
+
+
+// SV_DispatchThreadID -> unique global thread index for every thread across all groups
+// Every thread uses i to process bullet i
+[numthreads(256,1,1)]
+void CSMain (uint3 id : SV_DispatchThreadID)
+{
+    uint i = id.x;
+    if(i >= bulletCount)
+    {
+        return;
+    }
+    
+    // current bullet
+    BulletData b = bullets[i];
+    
+    if(b.alive < 0.5)
+    {
+        return;
+    }
+    
+    // Move Bullet
+    b.position += b.direction * deltaTime;
+    
+    // KILL if bullet is out of bounds
+    if(abs(b.position.x) > x || abs(b.position.y) > maxY)
+    {
+        b.alive = 0;
+    }
+    
+    // Check if it hit player
+    if(distance(b.position, playerPosition) < (playerHitDistance + b.radius))
+    {
+        playerHitBuffer[0] = 1;
+    }
+    
+    // Update current bullet state
+    bullets[i] = b;
+    
+    // Create transform Matrix
+    float4x4 m = float4x4(
+        b.uvScale.x, 0, 0, b.position.x,
+        0, b.uvScale.y, 0, b.position.y,
+        0, 0, 1, b.position.z,
+        0, 0, 0, 1
+    );
+    
+    matrices[i] = m;
+}
