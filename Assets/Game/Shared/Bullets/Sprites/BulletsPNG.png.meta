@@ -1,0 +1,246 @@
+fileFormatVersion: 2
+guid: 9dce175747853504fac7c5f03129cd60
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 717584213480752460
+    second: BulletsPNG_0
+  - first:
+      213: 7528667811470812994
+    second: BulletsPNG_1
+  - first:
+      213: -7009670045823524083
+    second: BulletsPNG_2
+  - first:
+      213: -1459313095272693329
+    second: BulletsPNG_3
+  - first:
+      213: -2180719074822722356
+    second: BulletsPNG_4
+  - first:
+      213: 745421408672900680
+    second: BulletsPNG_5
+  - first:
+      213: -6724051291675943863
+    second: BulletsPNG_6
+  - first:
+      213: 7688639654362104513
+    second: BulletsPNG_7
+  - first:
+      213: -506091435982262176
+    second: BulletsPNG_8
+  - first:
+      213: -7180387815769204023
+    second: BulletsPNG_9
+  - first:
+      213: -4792341170246534485
+    second: BulletsPNG_10
+  - first:
+      213: -7449412277479537551
+    second: BulletsPNG_11
+  - first:
+      213: 1057922529055885658
+    second: BulletsPNG_12
+  - first:
+      213: 8800484566671863354
+    second: BulletsPNG_13
+  - first:
+      213: 352932289188720265
+    second: BulletsPNG_14
+  - first:
+      213: -7404048295878664120
+    second: BulletsPNG_15
+  - first:
+      213: -2155165276194666102
+    second: BulletsPNG_16
+  - first:
+      213: -5330121210623398588
+    second: BulletsPNG_17
+  - first:
+      213: 8239019921195599473
+    second: BulletsPNG_18
+  - first:
+      213: 132598380275031513
+    second: BulletsPNG_19
+  - first:
+      213: 9025849078030485625
+    second: BulletsPNG_20
+  - first:
+      213: -7491194471880068238
+    second: BulletsPNG_21
+  - first:
+      213: -4822167128052568166
+    second: BulletsPNG_22
+  - first:
+      213: 6081340343425163229
+    second: BulletsPNG_23
+  - first:
+      213: -3525654578083436957
+    second: BulletsPNG_24
+  - first:
+      213: 2847917403064721396
+    second: BulletsPNG_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BulletsPNG_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 207
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45c2fc4a0f55f900800000000000000
+      internalID: 717584213480752460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e8fb7e22f42a9dc4bbca7e3350fbc173
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":256.0,"y":256.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      BulletsPNG_0: 717584213480752460
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
