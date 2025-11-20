@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 045ddef8a1b6ac74e9bd9e92a3fb4b84, type: 3}
-  m_Name: BasicWhiteShip
+  m_Name: BasicWhiteShipData
   m_EditorClassIdentifier: Assembly-CSharp::BasicWhiteShipData
   initialPosition: {x: -3.5, y: 12}
   fireRate: 1

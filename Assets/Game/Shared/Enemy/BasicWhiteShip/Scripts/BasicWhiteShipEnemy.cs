@@ -11,6 +11,7 @@ public class BasicWhiteShipEnemy : BaseEnemy
         if (data is BasicWhiteShipData basicWhiteShipData)
         {
             transform.position = basicWhiteShipData.initialPosition;
+            StartCoroutine(Run(basicWhiteShipData));
         }
     }
 
@@ -26,7 +27,7 @@ public class BasicWhiteShipEnemy : BaseEnemy
 
                 if(movingTimer <0f)
                 {
-                    // ShootToPlayer()
+                    ShootToPlayer(data);
                     movingTimer = data.fireRate;
                 }
                 yield return null;
@@ -34,20 +35,18 @@ public class BasicWhiteShipEnemy : BaseEnemy
 
             for (int i = 0; i < step.shoots; i++)
             {
-                //ShootToPlayer()
-                yield return new WaitForSeconds(step.waitTime);
+                ShootToPlayer(data);
+                yield return new WaitForSeconds(data.fireRate);
             }
-
-            Destroy(gameObject);
+            yield return new WaitForSeconds(step.waitTime);
         }
+        Destroy(gameObject);
     }
-
-    /*
+    
     public void ShootToPlayer(BasicWhiteShipData data)
     {
-        Vector3 direction = BulletSystem.Instance.player.transform.position - transform.position).normalized;
+        Vector3 direction = (BulletSystem.Instance.player.transform.position - transform.position).normalized;
         BulletSystem.Instance.SpawnBullet(transform.position, direction * data.shootSpeed, data.bulletSprite, data.bulletRadius);
     }
-    */
-
+    
 }
