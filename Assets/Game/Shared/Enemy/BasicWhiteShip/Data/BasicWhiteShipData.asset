@@ -12,10 +12,26 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 045ddef8a1b6ac74e9bd9e92a3fb4b84, type: 3}
   m_Name: BasicWhiteShipData
   m_EditorClassIdentifier: Assembly-CSharp::BasicWhiteShipData
-  initialPosition: {x: -3.5, y: 12}
+  initialPosition: {x: -3, y: 6}
   fireRate: 1
   shootSpeed: 4
-  movingSpeed: 2
+  movingSpeed: 0.009529599
   bulletRadius: 0.1
-  bulletSprite: {fileID: 0}
-  Steps: []
+  bulletSprite: {fileID: 717584213480752460, guid: 9dce175747853504fac7c5f03129cd60, type: 3}
+  Steps:
+  - endPosition: {x: -2, y: 6}
+    fireWhileMoving: 1
+    shoots: 0
+    waitTime: 0
+  - endPosition: {x: 2.2, y: 3}
+    fireWhileMoving: 1
+    shoots: 0
+    waitTime: 0
+  - endPosition: {x: 1.5, y: -3}
+    fireWhileMoving: 1
+    shoots: 0
+    waitTime: 0
+  - endPosition: {x: -6, y: -6}
+    fireWhileMoving: 1
+    shoots: 0
+    waitTime: 0
