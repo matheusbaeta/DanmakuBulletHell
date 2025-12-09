@@ -366,7 +366,7 @@ MonoBehaviour:
   speed: 1
   bulletSystem: {fileID: 1306635830}
   collisionDistance: 0
-  spriteRenderer: {fileID: 1037445148}
+  spriteRenderer: {fileID: 0}
   playerHealth: {fileID: 55559033}
 --- !u!114 &1037445151
 MonoBehaviour:
