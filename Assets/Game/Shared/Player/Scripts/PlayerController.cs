@@ -27,8 +27,6 @@ public class PlayerController : MonoBehaviour
         
         if(bulletSystem.playerHit && !playerHealth.IsDead())
         {
-            Debug.Log("HIT!!!");
-
             playerHealth.TakeHit();
 
             // Move player to start position

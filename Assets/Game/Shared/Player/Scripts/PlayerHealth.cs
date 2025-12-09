@@ -19,7 +19,7 @@ public class PlayerHealth : MonoBehaviour
 
     public void Die()
     {
-        SceneManager.LoadScene("GameOver");
+        // SceneManager.LoadScene("GameOver");
     }
 
     public void IncreaseLife()
