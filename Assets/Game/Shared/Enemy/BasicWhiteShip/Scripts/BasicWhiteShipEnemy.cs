@@ -5,6 +5,7 @@ using UnityEngine;
 
 public class BasicWhiteShipEnemy : BaseEnemy
 {
+    public int totalLife = 40;
 
     public override void Initialize(BaseEnemyData data)
     {
@@ -22,13 +23,16 @@ public class BasicWhiteShipEnemy : BaseEnemy
             float movingTimer = data.fireRate;
             while(Vector2.Distance(transform.position, step.endPosition) > 0.1f)
             {
-                transform.position = Vector3.MoveTowards(transform.position, step.endPosition, data.movingSpeed = Time.deltaTime);
+                transform.position = Vector3.MoveTowards(transform.position, step.endPosition, data.movingSpeed * Time.deltaTime);
                 movingTimer -= Time.deltaTime;
 
-                if(movingTimer <0f)
+                if (step.fireWhileMoving)
                 {
-                    ShootToPlayer(data);
-                    movingTimer = data.fireRate;
+                    if (movingTimer < 0f)
+                    {
+                        ShootToPlayer(data);
+                        movingTimer = data.fireRate;
+                    }
                 }
                 yield return null;
             }
@@ -48,5 +52,10 @@ public class BasicWhiteShipEnemy : BaseEnemy
         Vector3 direction = (BulletSystem.Instance.player.transform.position - transform.position).normalized;
         BulletSystem.Instance.SpawnBullet(transform.position, direction * data.shootSpeed, data.bulletSprite, data.bulletRadius);
     }
-    
+
+    public override void TakeDamage(int damage)
+    {
+        totalLife -= damage;
+        if (totalLife <= 0) Destroy(gameObject);
+    }
 }
