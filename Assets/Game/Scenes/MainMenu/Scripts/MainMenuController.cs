@@ -10,8 +10,10 @@ public class MainMenuController : MonoBehaviour
         SceneManager.LoadScene(sceneName);
     }
 
-    public void OnClickStart()
+    public void OnClickStart(LevelData data)
     {
-        SceneManager.LoadScene("Gameplay");
+        GameplayController.Show(new GameplayData() {
+            levelData = data,
+        });
     }
 }

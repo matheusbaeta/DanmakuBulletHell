@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 836de35d7fcb49445935ac970522d434, type: 3}
   m_Name: Level1Data
   m_EditorClassIdentifier: Assembly-CSharp::LevelData
-  levelName: Biribaldo
+  levelName: Level 1
   levelSoundtrack: {fileID: 8300000, guid: 99fa12709bb56774ca1ec58d428ca67e, type: 3}
   enemyData:
   - time: 2
@@ -43,7 +43,7 @@ MonoBehaviour:
     enemy: {fileID: 3264941151755743630, guid: bdf5fb465eb0886498ca750625e41610, type: 3}
     data: {fileID: 11400000, guid: 87cc534d8aadfef4187670ad0a6ba9cb, type: 2}
   - time: 0.3
-    enemy: {fileID: 3264941151755743630, guid: 42a2dc42aaf31a04bb6f82466bdea75d, type: 3}
+    enemy: {fileID: 3264941151755743630, guid: bdf5fb465eb0886498ca750625e41610, type: 3}
     data: {fileID: 11400000, guid: 87cc534d8aadfef4187670ad0a6ba9cb, type: 2}
   - time: 1
     enemy: {fileID: 3264941151755743630, guid: 42a2dc42aaf31a04bb6f82466bdea75d, type: 3}

@@ -23,13 +23,13 @@ MonoBehaviour:
     pattern: 0
     waitTime: 2
   - endPosition: {x: -1, y: 3}
-    pattern: 0
+    pattern: 1
     waitTime: 2
   - endPosition: {x: 0, y: 3}
     pattern: 0
     waitTime: 2
   - endPosition: {x: 1, y: 3}
-    pattern: 0
+    pattern: 1
     waitTime: 2
   - endPosition: {x: 1, y: 3}
     pattern: 0

@@ -47,7 +47,7 @@ public class Boss1Enemy : BaseEnemy
                 RunPattern1(data);
                 break;
             case Boss1Patterns.Pattern2:
-                
+                StartCoroutine(RunPattern2(data));
                 break;
             case Boss1Patterns.Pattern3:
                 
@@ -67,7 +67,23 @@ public class Boss1Enemy : BaseEnemy
 
             ShootToPlayer(new Vector3(x, y, 0), data);
         }
-}
+    }
+
+    private IEnumerator RunPattern2(Boss1Data data)
+    {
+        for (int bCount = 1; bCount <= 9; bCount += 2)
+        {
+            for (int i = 0; i < bCount; i++)
+            {
+                var direction = Vector2.down;
+                var angle = Mathf.Ceil(i / 2f);
+                var signal = i % 2 == 0 ? 1 : -1;
+                direction.x = (angle * 0.1f) * signal;
+                BulletSystem.Instance.SpawnBullet(transform.position, direction.normalized * data.shootSpeed, data.bulletSprite, data.bulletRadius);
+            }
+            yield return new WaitForSeconds(0.2f);
+        }
+    }
 
     public void ShootToPlayer(Vector3 startPosition, Boss1Data data)
     {
