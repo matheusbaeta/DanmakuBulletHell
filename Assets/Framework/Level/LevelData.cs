@@ -6,5 +6,6 @@ using UnityEngine;
 public class LevelData : ScriptableObject
 {
     public string levelName;
+    public AudioClip levelSoundtrack;
     public List<EnemyData> enemyData;
 }

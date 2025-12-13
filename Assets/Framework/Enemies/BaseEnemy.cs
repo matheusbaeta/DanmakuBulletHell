@@ -6,4 +6,9 @@ public class BaseEnemy : MonoBehaviour
     {
 
     }
+
+    public virtual void TakeDamage(int damage)
+    {
+
+    }
 }
