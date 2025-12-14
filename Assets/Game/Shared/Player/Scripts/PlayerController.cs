@@ -19,6 +19,11 @@ public class PlayerController : MonoBehaviour
     public SpriteRenderer spriteRenderer;
     public PlayerHealth playerHealth;
 
+    [Header("Invincibility Visuals")]
+    public float blinkInterval = 0.1f;
+
+    private Coroutine blinkCoroutine;
+
     private void Awake()
     {
         Instance = this;
@@ -32,15 +37,24 @@ public class PlayerController : MonoBehaviour
         Vector2 movement = inputValue.Get<Vector2>();
         transform.position += (Vector3)movement * speed;
     }
-
     private void Update()
     {
-        spriteRenderer.color = bulletSystem.playerHit ? Color.red : Color.white;
-        
-        if(bulletSystem.playerHit && !playerHealth.IsDead())
+        // Apply damage
+        if (bulletSystem.playerHit)
         {
             playerHealth.TakeHit();
-            transform.position = new Vector3(0, -4, 0);
+        }
+
+        // Handle blinking
+        if (playerHealth.IsInvincible && blinkCoroutine == null)
+        {
+            blinkCoroutine = StartCoroutine(Blink());
+        }
+        else if (!playerHealth.IsInvincible && blinkCoroutine != null)
+        {
+            StopCoroutine(blinkCoroutine);
+            blinkCoroutine = null;
+            spriteRenderer.enabled = true; // restore visibility
         }
     }
 
@@ -59,6 +73,15 @@ public class PlayerController : MonoBehaviour
                 newBullet.SetData(transform.position + Vector3.up * 0.5f, Vector2.up);
             }
             yield return new WaitForSeconds(bulletFrequency);
+        }
+    }
+
+    private IEnumerator Blink()
+    {
+        while (true)
+        {
+            spriteRenderer.enabled = !spriteRenderer.enabled;
+            yield return new WaitForSeconds(blinkInterval);
         }
     }
 }

@@ -13,6 +13,14 @@ public class Boss1Enemy : BaseEnemy
     public int pattern1_startAngleDeg = 180;
     public int pattern1_endAngleDeg = 360;
 
+    [Header("Pattern 3 Settings")]
+    public int pattern3_waves = 5;
+    public int pattern3_bulletsPerWave = 24;
+    public float pattern3_baseSpeed = 3f;
+    public float pattern3_speedStep = 1.2f;
+    public float pattern3_waveDelay = 0.5f;
+    public float pattern3_chargeTime = 0.8f;
+
     public override void Initialize(BaseEnemyData data)
     {
         if (data is Boss1Data boss1Data)
@@ -50,7 +58,7 @@ public class Boss1Enemy : BaseEnemy
                 StartCoroutine(RunPattern2(data));
                 break;
             case Boss1Patterns.Pattern3:
-                
+                StartCoroutine(RunPattern3(data));
                 break;
         }
     }
@@ -71,7 +79,7 @@ public class Boss1Enemy : BaseEnemy
 
     private IEnumerator RunPattern2(Boss1Data data)
     {
-        for (int bCount = 1; bCount <= 9; bCount += 2)
+        for (int bCount = 1; bCount <= 15; bCount += 2)
         {
             for (int i = 0; i < bCount; i++)
             {
@@ -83,6 +91,39 @@ public class Boss1Enemy : BaseEnemy
             }
             yield return new WaitForSeconds(0.2f);
         }
+    }
+
+    private IEnumerator RunPattern3(Boss1Data data)
+    {
+        // Charge time
+        yield return new WaitForSeconds(pattern3_chargeTime);
+
+        Vector3 center = transform.position;
+
+        for (int wave = 0; wave < pattern3_waves; wave++)
+        {
+            float speed = pattern3_baseSpeed + wave * pattern3_speedStep;
+
+            for (int i = 0; i < pattern3_bulletsPerWave; i++)
+            {
+                float angle = (360f / pattern3_bulletsPerWave) * i * Mathf.Deg2Rad;
+
+                Vector3 direction = new Vector3(
+                    Mathf.Cos(angle),
+                    Mathf.Sin(angle),
+                    0f
+                );
+
+                BulletSystem.Instance.SpawnBullet(
+                    center,
+                    direction * speed,
+                    data.bulletSprite,
+                    data.bulletRadius
+                );
+            }
+            // yield return new WaitForSeconds(pattern3_waveDelay);
+        }
+        yield return new WaitForSeconds(0.4f);
     }
 
     public void ShootToPlayer(Vector3 startPosition, Boss1Data data)

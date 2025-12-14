@@ -59,4 +59,4 @@ MonoBehaviour:
     data: {fileID: 11400000, guid: c2b1e97204fd6b449b1bc753d84d371d, type: 2}
   - time: 15
     enemy: {fileID: 3264941151755743630, guid: 42a2dc42aaf31a04bb6f82466bdea75d, type: 3}
-    data: {fileID: 11400000, guid: e743007e62daaf14893ed2fa78d5e465, type: 2}
+    data: {fileID: 11400000, guid: b5497386401956f4cadd6339a7d39f71, type: 2}

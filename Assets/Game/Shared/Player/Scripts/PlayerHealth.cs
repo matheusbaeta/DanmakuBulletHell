@@ -1,35 +1,48 @@
+using System.Collections;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class PlayerHealth : MonoBehaviour
 {
     [SerializeField] private int maxHits = 3;
+    [SerializeField] private float invincibilityTime = 0.8f;
+
     private int currentHits;
+    private bool invincible;
+
+    public bool IsInvincible => invincible;
 
     private void Awake()
     {
-        this.currentHits = maxHits;
+        currentHits = maxHits;
     }
 
     public void TakeHit()
     {
-        this.currentHits--;
-        if (currentHits <= 0) Die();
+        if (invincible) return;
+
+        currentHits--;
+
+        if (currentHits <= 0)
+        {
+            Die();
+            return;
+        }
+
+        StartCoroutine(InvincibilityCoroutine());
     }
 
-    public void Die()
+    private IEnumerator InvincibilityCoroutine()
     {
-        // SceneManager.LoadScene("GameOver");
+        invincible = true;
+        yield return new WaitForSeconds(invincibilityTime);
+        invincible = false;
     }
 
-    public void IncreaseLife()
-    {
-        this. currentHits++;
-        if (currentHits > maxHits) currentHits = maxHits;
-    }
+    public bool IsDead() => currentHits <= 0;
 
-    public bool IsDead()
+    private void Die()
     {
-        return currentHits <= 0; 
+        SceneManager.LoadScene("GameOver");
     }
 }
