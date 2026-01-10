@@ -5,7 +5,8 @@ using UnityEngine;
 public enum BackgroundEnum
 {
     Space,
-    River
+    River,
+    Orbit
 }
 
 [CreateAssetMenu(fileName = "LevelData", menuName = "LevelData")]

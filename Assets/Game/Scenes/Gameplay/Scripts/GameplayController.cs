@@ -16,6 +16,7 @@ public class GameplayController : MonoBehaviour
 
     public GameObject spaceBackground;
     public GameObject riverBackground;
+    public GameObject orbitBackground;
 
     public static void Show(GameplayData gameplayData)
     {
@@ -29,6 +30,8 @@ public class GameplayController : MonoBehaviour
 
         spaceBackground.SetActive(false);
         riverBackground.SetActive(false);
+        orbitBackground.SetActive(false);
+
         switch (data.levelData.background)
         {
             case BackgroundEnum.Space:
@@ -36,6 +39,9 @@ public class GameplayController : MonoBehaviour
                 break;
             case BackgroundEnum.River:
                 riverBackground.SetActive(true);
+                break;
+            case BackgroundEnum.Orbit:
+                orbitBackground.SetActive(true);
                 break;
         }
 

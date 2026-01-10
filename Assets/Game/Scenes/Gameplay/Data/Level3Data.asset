@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: Level3Data
   m_EditorClassIdentifier: Assembly-CSharp::LevelData
   levelName: Level 3
+  background: 2
   levelSoundtrack: {fileID: 8300000, guid: 767aed2fa19ef9c43a892a068b831229, type: 3}
   enemyData:
   - time: 5
