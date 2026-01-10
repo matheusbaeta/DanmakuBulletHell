@@ -8,6 +8,7 @@ public class PlayerController : MonoBehaviour
     public static PlayerController Instance;
 
     [Header("Bullets")]
+    public int bulletDamage = 40;
     public float bulletFrequency = 0.2f;
     public BulletController bulletPrefab;
     public Queue<BulletController> unusedBullets = new();
@@ -65,11 +66,13 @@ public class PlayerController : MonoBehaviour
             if (unusedBullets.TryDequeue(out BulletController bullet))
             {
                 bullet.gameObject.SetActive(true);
+                bullet.SetDamage(bulletDamage);
                 bullet.SetData(transform.position + Vector3.up * 0.5f, Vector2.up);
             }
             else
             {
                 var newBullet = Instantiate(bulletPrefab);
+                newBullet.SetDamage(bulletDamage);
                 newBullet.SetData(transform.position + Vector3.up * 0.5f, Vector2.up);
             }
             yield return new WaitForSeconds(bulletFrequency);
@@ -82,6 +85,23 @@ public class PlayerController : MonoBehaviour
         {
             spriteRenderer.enabled = !spriteRenderer.enabled;
             yield return new WaitForSeconds(blinkInterval);
+        }
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Item"))
+        {
+            var item = collision.GetComponent<ItemController>();
+            if (item.itemType == ItemType.Health)
+            {
+                playerHealth.Heal();
+            }
+            else if (item.itemType == ItemType.PowerUp)
+            {
+                bulletDamage += 10;
+            }
+            Destroy(collision.gameObject);
         }
     }
 }

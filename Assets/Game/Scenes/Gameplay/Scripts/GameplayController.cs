@@ -12,6 +12,7 @@ public class GameplayController : MonoBehaviour
 
     public GameplayData debugData;
     public TextMeshProUGUI levelNameText;
+    public TextMeshProUGUI scoreText;
 
     public static void Show(GameplayData gameplayData)
     {
@@ -25,7 +26,24 @@ public class GameplayController : MonoBehaviour
         StartCoroutine(RunLevel());
         StartCoroutine(ShowLevelName(data.levelData.levelName));
 
+        ScoreManager.Instance.StartRun(data.levelData.levelName);
+
         AudioController.Instance.PlayClip(data.levelData.levelSoundtrack);
+    }
+
+    private void OnEnable()
+    {
+        ScoreManager.Instance.OnScoreUpdated += OnScoreUpdated;
+    }
+
+    private void OnDisable()
+    {
+        ScoreManager.Instance.OnScoreUpdated -= OnScoreUpdated;
+    }
+
+    private void OnScoreUpdated(int score)
+    {
+        scoreText.text = score.ToString();
     }
 
     private IEnumerator RunLevel()
@@ -39,6 +57,8 @@ public class GameplayController : MonoBehaviour
         }
 
         yield return ShowLevelName("Level Finished");
+
+        ScoreManager.Instance.EndRun();
 
         MainMenuController.Show();
     }

@@ -5,6 +5,7 @@ using UnityEngine;
 
 public class BasicWhiteShipEnemy : BaseEnemy
 {
+    public int dropProbability = 50;
     public int totalLife = 40;
 
     public override void Initialize(BaseEnemyData data)
@@ -55,7 +56,19 @@ public class BasicWhiteShipEnemy : BaseEnemy
 
     public override void TakeDamage(int damage)
     {
+        ScoreManager.Instance.AddDamage(damage);
         totalLife -= damage;
-        if (totalLife <= 0) Destroy(gameObject);
+        if (totalLife <= 0)
+        {
+            ScoreManager.Instance.AddEnemyKill();
+
+            if (dropProbability > Random.Range(0, 100))
+            {
+                var item = Instantiate(droppedItem, transform.position, Quaternion.identity);
+                item.SetItem((ItemType)Random.Range(0, System.Enum.GetValues(typeof(ItemType)).Length));
+            }
+
+            Destroy(gameObject);
+        }
     }
 }

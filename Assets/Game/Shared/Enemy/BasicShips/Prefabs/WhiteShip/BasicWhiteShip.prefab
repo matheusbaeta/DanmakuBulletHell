@@ -104,6 +104,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f7fa2fe84c56de4a8ea03c6e253eec9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BasicWhiteShipEnemy
+  droppedItem: {fileID: 3108351116337096586, guid: 641c5b880e295544c9d5f29959c5476d, type: 3}
+  dropProbability: 50
+  totalLife: 40
 --- !u!61 &6171417541547778948
 BoxCollider2D:
   m_ObjectHideFlags: 0

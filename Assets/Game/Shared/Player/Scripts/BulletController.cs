@@ -7,6 +7,11 @@ public class BulletController : MonoBehaviour
     public int damage = 40;
     private Vector2 _direction = Vector2.up;
 
+    public void SetDamage(int newDamage)
+    {
+        damage = newDamage;
+    }
+
     public void SetData(Vector2 position, Vector2 direction)
     {
         transform.position = position;

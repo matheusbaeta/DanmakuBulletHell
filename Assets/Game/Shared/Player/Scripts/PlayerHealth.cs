@@ -22,6 +22,7 @@ public class PlayerHealth : MonoBehaviour
         if (invincible) return;
 
         currentHits--;
+        ScoreManager.Instance.RegisterHit();
 
         if (currentHits <= 0)
         {
@@ -30,6 +31,14 @@ public class PlayerHealth : MonoBehaviour
         }
 
         StartCoroutine(InvincibilityCoroutine());
+    }
+
+    public void Heal()
+    {
+        if (currentHits < maxHits)
+        {
+            currentHits++;
+        }
     }
 
     private IEnumerator InvincibilityCoroutine()
