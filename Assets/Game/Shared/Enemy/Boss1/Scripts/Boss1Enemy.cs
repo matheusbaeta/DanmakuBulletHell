@@ -134,7 +134,13 @@ public class Boss1Enemy : BaseEnemy
 
     public override void TakeDamage(int damage)
     {
+        ScoreManager.Instance.AddDamage(damage);
+
         totalLife -= damage;
-        if (totalLife <= 0) Destroy(gameObject);
+        if (totalLife <= 0)
+        {
+            ScoreManager.Instance.AddEnemyKill();
+            Destroy(gameObject);
+        }
     }
 }

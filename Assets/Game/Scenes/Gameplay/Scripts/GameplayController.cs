@@ -14,6 +14,9 @@ public class GameplayController : MonoBehaviour
     public TextMeshProUGUI levelNameText;
     public TextMeshProUGUI scoreText;
 
+    public GameObject spaceBackground;
+    public GameObject riverBackground;
+
     public static void Show(GameplayData gameplayData)
     {
         data = gameplayData;
@@ -23,6 +26,19 @@ public class GameplayController : MonoBehaviour
     private void Awake()
     {
         if (data == null) data = debugData;
+
+        spaceBackground.SetActive(false);
+        riverBackground.SetActive(false);
+        switch (data.levelData.background)
+        {
+            case BackgroundEnum.Space:
+                spaceBackground.SetActive(true);
+                break;
+            case BackgroundEnum.River:
+                riverBackground.SetActive(true);
+                break;
+        }
+
         StartCoroutine(RunLevel());
         StartCoroutine(ShowLevelName(data.levelData.levelName));
 
