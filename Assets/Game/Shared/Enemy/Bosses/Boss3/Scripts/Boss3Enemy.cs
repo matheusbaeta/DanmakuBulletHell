@@ -13,11 +13,13 @@ public class Boss3Enemy : BaseEnemy
 
     [Header("Pattern 2 – Rotating Ring Cage")]
     public int pattern2_ringCount = 4;
-    public int pattern2_bulletsPerRing = 8;
-    public float pattern2_rotationSpeed = 16f;
+    public int pattern2_bulletsPerRing = 10;
+    public float pattern2_rotationSpeed = 20f;
     public float pattern2_duration = 2.6f;
-    public float pattern2_spawnInterval = 0.45f;
-    public float pattern2_spacingMultiplier = 2.4f;
+    public float pattern2_spawnInterval = 0.15f;
+    public float pattern2_spacingMultiplier = 0.5f;
+    public float pattern2_baseRadius = 0.4f;
+    public float pattern2_ringSpacing = 0.4f;
 
     [Header("Pattern 3 – Delayed Explosion")]
     public int pattern3_shots = 9;
@@ -108,19 +110,11 @@ public class Boss3Enemy : BaseEnemy
         {
             for (int ring = 1; ring <= pattern2_ringCount; ring++)
             {
-                float radius = ring * 1.2f;
-
-                // Outer rings get more space (natural escape paths)
-                float ringSpacing = 1f + ring * 0.15f;
+                float radius = pattern2_baseRadius + (ring - 1) * pattern2_ringSpacing;
 
                 for (int i = 0; i < pattern2_bulletsPerRing; i++)
                 {
-                    float step =
-                        (360f / pattern2_bulletsPerRing)
-                        * pattern2_spacingMultiplier
-                        * ringSpacing;
-
-                    float angle = angleOffset + step * i;
+                    float angle = angleOffset + (360f / pattern2_bulletsPerRing) * i;
 
                     Vector3 pos = transform.position + new Vector3(
                         Mathf.Cos(angle * Mathf.Deg2Rad),
@@ -132,16 +126,16 @@ public class Boss3Enemy : BaseEnemy
 
                     BulletSystem.Instance.SpawnBullet(
                         pos,
-                        dir * (data.shootSpeed * 0.45f),
+                        dir * (data.shootSpeed * 0.5f),
                         data.bulletSprite,
                         data.bulletRadius
                     );
                 }
             }
 
-            angleOffset += pattern2_rotationSpeed;
-            timer += pattern2_spawnInterval;
-            yield return new WaitForSeconds(pattern2_spawnInterval);
+            angleOffset += pattern2_rotationSpeed * Time.deltaTime;
+            timer += Time.deltaTime;
+            yield return null;
         }
     }
 

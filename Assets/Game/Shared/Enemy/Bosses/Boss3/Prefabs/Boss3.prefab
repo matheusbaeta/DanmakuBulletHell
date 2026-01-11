@@ -29,8 +29,8 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0.03987, y: 0.86328, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_LocalScale: {x: 4, y: 4, z: 4}
+  m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -81,12 +81,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -5869081751201084575, guid: e4a62e2d41c3acd47b7791e53f06b641, type: 3}
+  m_Sprite: {fileID: -7674669785630670875, guid: 2db50abccb40afd49b738f526e163e6f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.42, y: 0.29}
+  m_Size: {x: 0.26, y: 0.26}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -130,8 +130,8 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.7, y: 0.67}
-    newSize: {x: 0.42, y: 0.29}
+    oldSize: {x: 0.26, y: 0.26}
+    newSize: {x: 0.26, y: 0.26}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -151,7 +151,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Boss3Enemy
   droppedItem: {fileID: 3108351116337096586, guid: 641c5b880e295544c9d5f29959c5476d, type: 3}
-  totalLife: 5700
+  totalLife: 8200
   pattern1_bulletsPerWave: 20
   pattern1_waveDelay: 0.08
   pattern1_rotationSpeed: 18
@@ -162,6 +162,8 @@ MonoBehaviour:
   pattern2_duration: 4
   pattern2_spawnInterval: 0.35
   pattern2_spacingMultiplier: 1.3
+  pattern2_baseRadius: 2.5
+  pattern2_ringSpacing: 1.2
   pattern3_shots: 10
   pattern3_fragments: 12
   pattern3_delay: 1.2
