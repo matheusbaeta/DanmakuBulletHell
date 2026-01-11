@@ -25,9 +25,27 @@ MonoBehaviour:
   - endPosition: {x: 1, y: 1}
     pattern: 1
     waitTime: 4
-  - endPosition: {x: 0, y: -1}
+  - endPosition: {x: 0, y: -2}
+    pattern: 0
+    waitTime: 5
+  - endPosition: {x: -1, y: -4}
     pattern: 2
-    waitTime: 15
+    waitTime: 2
+  - endPosition: {x: 1, y: 0}
+    pattern: 1
+    waitTime: 2
+  - endPosition: {x: 0, y: -2}
+    pattern: 0
+    waitTime: 2
+  - endPosition: {x: 3, y: -4}
+    pattern: 2
+    waitTime: 4
   - endPosition: {x: 0, y: 0}
     pattern: 0
-    waitTime: 0
+    waitTime: 2
+  - endPosition: {x: 1, y: 2}
+    pattern: 1
+    waitTime: 3
+  - endPosition: {x: -1, y: -3}
+    pattern: 0
+    waitTime: 2

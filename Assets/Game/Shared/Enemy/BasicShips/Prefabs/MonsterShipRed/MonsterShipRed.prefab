@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &3260094636355238810
+--- !u!1 &6449558727036259487
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,39 +8,39 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 2566667613970687711}
-  - component: {fileID: 5128741508929011886}
-  - component: {fileID: 9142093131432141406}
-  - component: {fileID: 187092993955108443}
+  - component: {fileID: 3744726721513640483}
+  - component: {fileID: 3608425424400576935}
+  - component: {fileID: 3427551397636603597}
+  - component: {fileID: 4478745098547925978}
   m_Layer: 0
-  m_Name: Boss2
+  m_Name: MonsterShipRed
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &2566667613970687711
+--- !u!4 &3744726721513640483
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3260094636355238810}
+  m_GameObject: {fileID: 6449558727036259487}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.84648, y: 5.65288, z: 0}
-  m_LocalScale: {x: 0.75, y: 0.75, z: 0.75}
+  m_LocalPosition: {x: 0.02, y: -0.94, z: 0}
+  m_LocalScale: {x: 1.7, y: 1.7, z: 1.7}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!212 &5128741508929011886
+--- !u!212 &3608425424400576935
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3260094636355238810}
+  m_GameObject: {fileID: 6449558727036259487}
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -81,24 +81,39 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 8011265514315119581, guid: 5311e52d2fe02aa4cb7ad5f40aa02b43, type: 3}
+  m_Sprite: {fileID: 6218484694126604207, guid: 93706c5a8bf95144ebd7cd71f20c8454, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.26, y: 0.26}
+  m_Size: {x: 0.16, y: 0.16}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!61 &9142093131432141406
+--- !u!114 &3427551397636603597
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6449558727036259487}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7fa2fe84c56de4a8ea03c6e253eec9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::BasicWhiteShipEnemy
+  droppedItem: {fileID: 3108351116337096586, guid: 641c5b880e295544c9d5f29959c5476d, type: 3}
+  dropProbability: 60
+  totalLife: 350
+--- !u!61 &4478745098547925978
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3260094636355238810}
+  m_GameObject: {fileID: 6449558727036259487}
   m_Enabled: 1
   serializedVersion: 3
   m_Density: 1
@@ -130,43 +145,11 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1.16, y: 1.33}
-    newSize: {x: 0.26, y: 0.26}
+    oldSize: {x: 0.46, y: 0.31}
+    newSize: {x: 0.16, y: 0.16}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.7, y: 0.6}
+  m_Size: {x: 0.16, y: 0.16}
   m_EdgeRadius: 0
---- !u!114 &187092993955108443
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3260094636355238810}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 43610806c7e2bde4582fd55312ae7cd3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Boss2Enemy
-  droppedItem: {fileID: 3108351116337096586, guid: 641c5b880e295544c9d5f29959c5476d, type: 3}
-  totalLife: 8100
-  pattern1_waves: 8
-  pattern1_bulletsPerWave: 12
-  pattern1_waveSpread: 60
-  pattern1_oscillationWidth: 2
-  pattern1_waveDelay: 0.4
-  pattern2_duration: 5
-  pattern2_spawnInterval: 0.25
-  pattern2_mainShots: 6
-  pattern2_childBullets: 6
-  pattern2_delay: 0.8
-  pattern2_mainSpeed: 2.5
-  pattern2_childSpeed: 3.5
-  pattern3_bursts: 3
-  pattern3_sides: 6
-  pattern3_radius: 3
-  pattern3_bulletsPerSide: 10
-  pattern3_expandSpeed: 1.5
-  pattern3_burstDelay: 2

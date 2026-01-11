@@ -1,0 +1,1430 @@
+fileFormatVersion: 2
+guid: fa32559b8b7f01445921568ae32b4a27
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6822057507919299162
+    second: Zeela_0
+  - first:
+      213: 7074387914045544618
+    second: Zeela_1
+  - first:
+      213: -6267991255389896591
+    second: Zeela_2
+  - first:
+      213: -377417349440511703
+    second: Zeela_3
+  - first:
+      213: -281908458699112673
+    second: Zeela_4
+  - first:
+      213: 3859028583115982707
+    second: Zeela_5
+  - first:
+      213: -6711373520689654114
+    second: Zeela_6
+  - first:
+      213: -5233869810611414551
+    second: Zeela_7
+  - first:
+      213: 6985922576718324221
+    second: Zeela_8
+  - first:
+      213: -7830631903193747846
+    second: Zeela_9
+  - first:
+      213: 8749394558482439796
+    second: Zeela_10
+  - first:
+      213: 4720510745026357335
+    second: Zeela_11
+  - first:
+      213: 2322381662454901404
+    second: Zeela_12
+  - first:
+      213: -8302677410387114233
+    second: Zeela_13
+  - first:
+      213: 8968778888131631061
+    second: Zeela_14
+  - first:
+      213: 7817934869641285383
+    second: Zeela_15
+  - first:
+      213: -5556410049959386086
+    second: Zeela_16
+  - first:
+      213: 746865779758550600
+    second: Zeela_17
+  - first:
+      213: -8747981312697442623
+    second: Zeela_18
+  - first:
+      213: -8175299524867841721
+    second: Zeela_19
+  - first:
+      213: -1850502224075206039
+    second: Zeela_20
+  - first:
+      213: 2022584634019877917
+    second: Zeela_21
+  - first:
+      213: 7290064465598055328
+    second: Zeela_22
+  - first:
+      213: -2651750224872069764
+    second: Zeela_23
+  - first:
+      213: -183842534682922490
+    second: Zeela_24
+  - first:
+      213: 4444166380001295568
+    second: Zeela_25
+  - first:
+      213: 8823937559984576659
+    second: Zeela_26
+  - first:
+      213: -5352664752442374686
+    second: Zeela_27
+  - first:
+      213: 4501949955157267522
+    second: Zeela_28
+  - first:
+      213: 5317183413866017814
+    second: Zeela_29
+  - first:
+      213: -6839094347451140733
+    second: Zeela_30
+  - first:
+      213: 1149517372940371673
+    second: Zeela_31
+  - first:
+      213: -5225184702788174174
+    second: Zeela_32
+  - first:
+      213: -8823815812996949105
+    second: Zeela_33
+  - first:
+      213: -1725470584593116534
+    second: Zeela_34
+  - first:
+      213: 5351157258849450641
+    second: Zeela_35
+  - first:
+      213: -3328688413702087755
+    second: Zeela_36
+  - first:
+      213: 6776467744368582276
+    second: Zeela_37
+  - first:
+      213: -7964052978773681022
+    second: Zeela_38
+  - first:
+      213: -6945034012732490516
+    second: Zeela_39
+  - first:
+      213: -5394453220398674891
+    second: Zeela_40
+  - first:
+      213: -5728574755224453424
+    second: Zeela_41
+  - first:
+      213: 8885157550928820545
+    second: Zeela_42
+  - first:
+      213: 6062145282718065267
+    second: Zeela_43
+  - first:
+      213: -9122449952063789814
+    second: Zeela_44
+  - first:
+      213: -7636336484761360741
+    second: Zeela_45
+  - first:
+      213: 4018606192387167299
+    second: Zeela_46
+  - first:
+      213: 243254986167999477
+    second: Zeela_47
+  - first:
+      213: 711924915057579583
+    second: Zeela_48
+  - first:
+      213: -4018555968480307071
+    second: Zeela_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zeela_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 269
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5201dc9821dcae50800000000000000
+      internalID: 6822057507919299162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 268
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8500c73564d2260800000000000000
+      internalID: 7074387914045544618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 268
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1700b37992f9309a0800000000000000
+      internalID: -6267991255389896591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 268
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921678a9be423caf0800000000000000
+      internalID: -377417349440511703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 268
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fbf0c10c5761cf0800000000000000
+      internalID: -281908458699112673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 234
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37705b2ec060e8530800000000000000
+      internalID: 3859028583115982707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_6
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 234
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96945067596cd2a0800000000000000
+      internalID: -6711373520689654114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_7
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 234
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e99dd1332f8d57b0800000000000000
+      internalID: -5233869810611414551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_8
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 234
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df16dad029bf2f060800000000000000
+      internalID: 6985922576718324221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_9
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 188
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7eab43c5c1045390800000000000000
+      internalID: -7830631903193747846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 186
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ed412aef71c6970800000000000000
+      internalID: 8749394558482439796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_11
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 185
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758e5b3238f928140800000000000000
+      internalID: 4720510745026357335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_12
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 187
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a618741d1ca3020800000000000000
+      internalID: 2322381662454901404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 188
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707473d72e6f6cc80800000000000000
+      internalID: -8302677410387114233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_14
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 154
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7db1051e0877c70800000000000000
+      internalID: 8968778888131631061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 154
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fcb1eb752ee7c60800000000000000
+      internalID: 7817934869641285383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_16
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 154
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14a2c9af7aa3e2b0800000000000000
+      internalID: -5556410049959386086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_17
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 154
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e476938766d5a00800000000000000
+      internalID: 746865779758550600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 129
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ced9ea485de89680800000000000000
+      internalID: -8747981312697442623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_19
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 129
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74125df85608b8e80800000000000000
+      internalID: -8175299524867841721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 94
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9625de51802b156e0800000000000000
+      internalID: -1850502224075206039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_21
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 93
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d141bee220aa11c10800000000000000
+      internalID: 2022584634019877917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_22
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 95
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a38badc1038b2560800000000000000
+      internalID: 7290064465598055328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_23
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 60
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7520755837133bd0800000000000000
+      internalID: -2651750224872069764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_24
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 65
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602fd91503cd27df0800000000000000
+      internalID: -183842534682922490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_25
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 65
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dcf5b2c6c9dcad30800000000000000
+      internalID: 4444166380001295568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_26
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 66
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3989b17a57ce47a70800000000000000
+      internalID: 8823937559984576659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_27
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 66
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e50bec64c387b5b0800000000000000
+      internalID: -5352664752442374686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_28
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 68
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2441cb1c1a32a7e30800000000000000
+      internalID: 4501949955157267522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_29
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 68
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614351da42e6ac940800000000000000
+      internalID: 5317183413866017814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_30
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 59
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385fac21de7a611a0800000000000000
+      internalID: -6839094347451140733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_31
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 59
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d64045d5f7e3ff00800000000000000
+      internalID: 1149517372940371673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_32
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 58
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae7180723a6c77b0800000000000000
+      internalID: -5225184702788174174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_33
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 58
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b97d6c4428b8580800000000000000
+      internalID: -8823815812996949105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_34
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 56
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8211fe25a5ed08e0800000000000000
+      internalID: -1725470584593116534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_35
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 56
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a79fedc21234a40800000000000000
+      internalID: 5351157258849450641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_36
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 25
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb145d168f1ec1d0800000000000000
+      internalID: -3328688413702087755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_37
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 33
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e5bfe9289da0e50800000000000000
+      internalID: 6776467744368582276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_38
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 34
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c9dcbd2000a7190800000000000000
+      internalID: -7964052978773681022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_39
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 36
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cecf21e9c584e9f90800000000000000
+      internalID: -6945034012732490516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_40
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ccca8806d0325b0800000000000000
+      internalID: -5394453220398674891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_41
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 23
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de73958c930080b0800000000000000
+      internalID: -5728574755224453424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_42
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149fd7c87bb6e4b70800000000000000
+      internalID: 8885157550928820545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_43
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37268391401112450800000000000000
+      internalID: 6062145282718065267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_44
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 22
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0565f5f91c866180800000000000000
+      internalID: -9122449952063789814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_45
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96a1781d68460690800000000000000
+      internalID: -7636336484761360741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_46
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3441c6d5a05f4c730800000000000000
+      internalID: 4018606192387167299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_47
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbd2600f17306300800000000000000
+      internalID: 243254986167999477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_48
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 20
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36d1c430f341e900800000000000000
+      internalID: 711924915057579583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zeela_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 170
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18894bc43a83b38c0800000000000000
+      internalID: -4018555968480307071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: caaa6fb5827f1264f9fd543dee87a11f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Zeela_0: 6822057507919299162
+      Zeela_1: 7074387914045544618
+      Zeela_10: 8749394558482439796
+      Zeela_11: 4720510745026357335
+      Zeela_12: 2322381662454901404
+      Zeela_13: -8302677410387114233
+      Zeela_14: 8968778888131631061
+      Zeela_15: 7817934869641285383
+      Zeela_16: -5556410049959386086
+      Zeela_17: 746865779758550600
+      Zeela_18: -8747981312697442623
+      Zeela_19: -8175299524867841721
+      Zeela_2: -6267991255389896591
+      Zeela_20: -1850502224075206039
+      Zeela_21: 2022584634019877917
+      Zeela_22: 7290064465598055328
+      Zeela_23: -2651750224872069764
+      Zeela_24: -183842534682922490
+      Zeela_25: 4444166380001295568
+      Zeela_26: 8823937559984576659
+      Zeela_27: -5352664752442374686
+      Zeela_28: 4501949955157267522
+      Zeela_29: 5317183413866017814
+      Zeela_3: -377417349440511703
+      Zeela_30: -6839094347451140733
+      Zeela_31: 1149517372940371673
+      Zeela_32: -5225184702788174174
+      Zeela_33: -8823815812996949105
+      Zeela_34: -1725470584593116534
+      Zeela_35: 5351157258849450641
+      Zeela_36: -3328688413702087755
+      Zeela_37: 6776467744368582276
+      Zeela_38: -7964052978773681022
+      Zeela_39: -6945034012732490516
+      Zeela_4: -281908458699112673
+      Zeela_40: -5394453220398674891
+      Zeela_41: -5728574755224453424
+      Zeela_42: 8885157550928820545
+      Zeela_43: 6062145282718065267
+      Zeela_44: -9122449952063789814
+      Zeela_45: -7636336484761360741
+      Zeela_46: 4018606192387167299
+      Zeela_47: 243254986167999477
+      Zeela_48: 711924915057579583
+      Zeela_49: -4018555968480307071
+      Zeela_5: 3859028583115982707
+      Zeela_6: -6711373520689654114
+      Zeela_7: -5233869810611414551
+      Zeela_8: 6985922576718324221
+      Zeela_9: -7830631903193747846
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
