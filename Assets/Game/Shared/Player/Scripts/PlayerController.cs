@@ -6,6 +6,7 @@ using UnityEngine.InputSystem;
 public class PlayerController : MonoBehaviour
 {
     public static PlayerController Instance;
+    private Camera cam;
 
     [Header("Bullets")]
     public int bulletDamage = 40;
@@ -14,7 +15,7 @@ public class PlayerController : MonoBehaviour
     public Queue<BulletController> unusedBullets = new();
 
     [Header("Player Settings")]
-    public float speed;
+    public float speed = 75;
     public BulletSystem bulletSystem;
     public float collisionDistance;
     public SpriteRenderer spriteRenderer;
@@ -28,6 +29,8 @@ public class PlayerController : MonoBehaviour
     private void Awake()
     {
         Instance = this;
+        // cam = Camera.main;
+
         if (playerHealth == null) playerHealth = GetComponent<PlayerHealth>();
 
         StartCoroutine(ShootCoroutine());
@@ -35,9 +38,25 @@ public class PlayerController : MonoBehaviour
 
     public void OnMove(InputValue inputValue)
     {
+
+        if (cam == null)
+            cam = Camera.main;
+
         Vector2 movement = inputValue.Get<Vector2>();
-        transform.position += (Vector3)movement * speed;
+
+        Vector3 newPosition = transform.position + (Vector3)movement * speed * Time.deltaTime;
+
+        float zDistance = transform.position.z - cam.transform.position.z;
+
+        Vector3 min = cam.ViewportToWorldPoint(new Vector3(0, 0, zDistance));
+        Vector3 max = cam.ViewportToWorldPoint(new Vector3(1, 1, zDistance));
+
+        newPosition.x = Mathf.Clamp(newPosition.x, min.x, max.x);
+        newPosition.y = Mathf.Clamp(newPosition.y, min.y, max.y);
+
+        transform.position = newPosition;
     }
+
     private void Update()
     {
         // Apply damage

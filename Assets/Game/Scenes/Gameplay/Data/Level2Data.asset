@@ -19,3 +19,9 @@ MonoBehaviour:
   - time: 5
     enemy: {fileID: 3264941151755743630, guid: bdf5fb465eb0886498ca750625e41610, type: 3}
     data: {fileID: 11400000, guid: b5497386401956f4cadd6339a7d39f71, type: 2}
+  - time: 5
+    enemy: {fileID: 6035281653384120454, guid: f4bd676b8381f5a42af6b3a1fc5e66e9, type: 3}
+    data: {fileID: 11400000, guid: 4d3eb3ae400421c4e9c8b5297f92c37d, type: 2}
+  - time: 90
+    enemy: {fileID: 3264941151755743630, guid: bdf5fb465eb0886498ca750625e41610, type: 3}
+    data: {fileID: 11400000, guid: e743007e62daaf14893ed2fa78d5e465, type: 2}
