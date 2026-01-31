@@ -1,0 +1,5461 @@
+fileFormatVersion: 2
+guid: cc45d10566f13bd4a973858e1e148869
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7581326913426295673
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_0
+  - first:
+      213: 6042812981509926043
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_1
+  - first:
+      213: 3101241268157686263
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_2
+  - first:
+      213: 6793350483543775240
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_3
+  - first:
+      213: -2019045778203341937
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_4
+  - first:
+      213: 5595451290622443465
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_5
+  - first:
+      213: 2657805339294756526
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_6
+  - first:
+      213: -5536552965765353844
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_7
+  - first:
+      213: 4203435318293127048
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_8
+  - first:
+      213: 3653551260478175954
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_9
+  - first:
+      213: -4531403430692936885
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_10
+  - first:
+      213: 6678345490420742575
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_11
+  - first:
+      213: -8541308814006785826
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_12
+  - first:
+      213: 1911882576024910588
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_13
+  - first:
+      213: -1241823482630166998
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_14
+  - first:
+      213: -8188994306177500731
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_15
+  - first:
+      213: 2960706399034539436
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_16
+  - first:
+      213: -6998631013240014548
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_17
+  - first:
+      213: 4481646711391462411
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_18
+  - first:
+      213: 7763947137078364384
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_19
+  - first:
+      213: -7394294013065053363
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_20
+  - first:
+      213: -5204023140855534833
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_21
+  - first:
+      213: 1311978395294512323
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_22
+  - first:
+      213: -614066085810581457
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_23
+  - first:
+      213: 4015618121917408967
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_24
+  - first:
+      213: 1664148160418865
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_25
+  - first:
+      213: 7144807749297215066
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_26
+  - first:
+      213: -3294941258351006577
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_27
+  - first:
+      213: 1102125246045833671
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_28
+  - first:
+      213: 4059408203810282030
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_29
+  - first:
+      213: 7922322195718455693
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_30
+  - first:
+      213: -4057109503753180116
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_31
+  - first:
+      213: -4505699533137956259
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_32
+  - first:
+      213: 7115213195615666846
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_33
+  - first:
+      213: 4123099400485181257
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_34
+  - first:
+      213: 4504857268538952539
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_35
+  - first:
+      213: -2724210336278618765
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_36
+  - first:
+      213: -372576238278249340
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_37
+  - first:
+      213: -462871546468040501
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_38
+  - first:
+      213: 8466068924665008590
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_39
+  - first:
+      213: 8091388210888068999
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_40
+  - first:
+      213: -1529622011201723970
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_41
+  - first:
+      213: 7626648285506968019
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_42
+  - first:
+      213: 8170081269951797532
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_43
+  - first:
+      213: -8185292767344382575
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_44
+  - first:
+      213: -4151107131780993608
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_45
+  - first:
+      213: 4799237036528074989
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_46
+  - first:
+      213: -4612365353588808805
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_47
+  - first:
+      213: 3749217993315404061
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_48
+  - first:
+      213: 1576192381727728748
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_49
+  - first:
+      213: 5675409082714531463
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_50
+  - first:
+      213: 5163051281502185018
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_51
+  - first:
+      213: 7366226039577802062
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_52
+  - first:
+      213: -3070214933614383900
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_53
+  - first:
+      213: 6013042389127190672
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_54
+  - first:
+      213: -8585717252228393491
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_55
+  - first:
+      213: -8801110497564677347
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_56
+  - first:
+      213: 3565851646731768980
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_57
+  - first:
+      213: -1369922883314185039
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_58
+  - first:
+      213: 5174971171858360813
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_59
+  - first:
+      213: 4840274296175692
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_60
+  - first:
+      213: 8814011591573417158
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_61
+  - first:
+      213: 1515961509153727542
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_62
+  - first:
+      213: 1470382897335980145
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_63
+  - first:
+      213: -1986902931137398306
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_64
+  - first:
+      213: 4626229438159351386
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_65
+  - first:
+      213: -877252515055895969
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_66
+  - first:
+      213: 7138508692042090264
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_67
+  - first:
+      213: 1628840519375968875
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_68
+  - first:
+      213: 7783212390318554794
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_69
+  - first:
+      213: 9133410668175491079
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_70
+  - first:
+      213: -270839059030419253
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_71
+  - first:
+      213: -2067346110903298882
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_72
+  - first:
+      213: 6581373771138088678
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_73
+  - first:
+      213: 7725635547136697585
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_74
+  - first:
+      213: -7747727769112378799
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_75
+  - first:
+      213: -4512805740172059940
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_76
+  - first:
+      213: -5425224099042743548
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_77
+  - first:
+      213: 1060046649769385045
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_78
+  - first:
+      213: -2853767962868200321
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_79
+  - first:
+      213: -6571703426398166540
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_80
+  - first:
+      213: 721249932136083807
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_81
+  - first:
+      213: -1273957611940603786
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_82
+  - first:
+      213: -6161904841915865078
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_83
+  - first:
+      213: -8882410064308817634
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_84
+  - first:
+      213: 1009420574126151728
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_85
+  - first:
+      213: 3612640724094639158
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_86
+  - first:
+      213: -1206993140954853522
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_87
+  - first:
+      213: 5839640498144699950
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_88
+  - first:
+      213: -1342730124568823256
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_89
+  - first:
+      213: 5934809540602294191
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_90
+  - first:
+      213: -2842448686761386409
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_91
+  - first:
+      213: -8439276777018391949
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_92
+  - first:
+      213: 4675128628424916653
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_93
+  - first:
+      213: 2855835171080883229
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_94
+  - first:
+      213: -5560107558893862184
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_95
+  - first:
+      213: -5376984334280896997
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_96
+  - first:
+      213: 55459125572237821
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_97
+  - first:
+      213: 2827925981140163358
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_98
+  - first:
+      213: 4920298688603480654
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_99
+  - first:
+      213: -71396625722194700
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_100
+  - first:
+      213: 6884470941064550679
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_101
+  - first:
+      213: -1717267412673881763
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_102
+  - first:
+      213: 2626456855247505619
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_103
+  - first:
+      213: -3354632710079166743
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_104
+  - first:
+      213: 4359271704781792919
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_105
+  - first:
+      213: 887198620362300556
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_106
+  - first:
+      213: 138529973781586610
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_107
+  - first:
+      213: -7997192323562621213
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_108
+  - first:
+      213: -4123118398811238395
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_109
+  - first:
+      213: -7189207951663568407
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_110
+  - first:
+      213: 8606698562200078201
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_111
+  - first:
+      213: -2017804629407016133
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_112
+  - first:
+      213: -1845776569796756307
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_113
+  - first:
+      213: 8188212136134294255
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_114
+  - first:
+      213: -2385442486795388105
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_115
+  - first:
+      213: 7841221709481439221
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_116
+  - first:
+      213: -2845765290083402751
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_117
+  - first:
+      213: -2665353513214494948
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_118
+  - first:
+      213: 5595774867066891685
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_119
+  - first:
+      213: 762862325468929912
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_120
+  - first:
+      213: 4433497293010166764
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_121
+  - first:
+      213: -6086743340922179277
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_122
+  - first:
+      213: -9223233760485924157
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_123
+  - first:
+      213: 6876061006138585790
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_124
+  - first:
+      213: 2031932933685446831
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_125
+  - first:
+      213: 3842976375012872445
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_126
+  - first:
+      213: 6831167359937946862
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_127
+  - first:
+      213: -636160267560092314
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_128
+  - first:
+      213: -4767846995298085332
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_129
+  - first:
+      213: 4717392783293938746
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_130
+  - first:
+      213: 3851498569566209556
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_131
+  - first:
+      213: -2694511573079845286
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_132
+  - first:
+      213: -8103032044614557092
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_133
+  - first:
+      213: 8076653827716046605
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_134
+  - first:
+      213: -9177173432932324359
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_135
+  - first:
+      213: -4415133392189594498
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_136
+  - first:
+      213: 6854331858964952185
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_137
+  - first:
+      213: 5661020805772575346
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_138
+  - first:
+      213: 3437841418441468563
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_139
+  - first:
+      213: -2597607947429422909
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_140
+  - first:
+      213: 7323076029985453602
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_141
+  - first:
+      213: 4625904557942388037
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_142
+  - first:
+      213: 1908758472289798179
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_143
+  - first:
+      213: 2772486031418537961
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_144
+  - first:
+      213: 5898486327765499117
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_145
+  - first:
+      213: 1598898552642570588
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_146
+  - first:
+      213: 4794087755985321063
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_147
+  - first:
+      213: 6815183005044741938
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_148
+  - first:
+      213: 8877750427798825722
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_149
+  - first:
+      213: 1928075866919575623
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_150
+  - first:
+      213: 9218024215433953587
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_151
+  - first:
+      213: -4867850116080874990
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_152
+  - first:
+      213: -2479878168200984426
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_153
+  - first:
+      213: -5053161319879096364
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_154
+  - first:
+      213: 3008887967899847329
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_155
+  - first:
+      213: -1958630999385735653
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_156
+  - first:
+      213: -7243724875644652134
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_157
+  - first:
+      213: 1978711858272936388
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_158
+  - first:
+      213: 7905115369519790254
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_159
+  - first:
+      213: 4273596362675941953
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_160
+  - first:
+      213: 8405621731954665705
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_161
+  - first:
+      213: 4202401228774139263
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_162
+  - first:
+      213: -342997761263981425
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_163
+  - first:
+      213: 6230561898639042344
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_164
+  - first:
+      213: 225567579342256891
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_165
+  - first:
+      213: -5684886310283993089
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_166
+  - first:
+      213: -6506758730706199544
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_167
+  - first:
+      213: -8063729356220665012
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_168
+  - first:
+      213: 7572195207524018713
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_169
+  - first:
+      213: -8074229938854330204
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_170
+  - first:
+      213: 878339200505806378
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_171
+  - first:
+      213: -830719816043598321
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_172
+  - first:
+      213: 411664966528528015
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_173
+  - first:
+      213: 1485546078210071552
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_174
+  - first:
+      213: 2487030206092230812
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_175
+  - first:
+      213: 4486316775078051392
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_176
+  - first:
+      213: 3476985493077475374
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_177
+  - first:
+      213: 7381858708722606740
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_178
+  - first:
+      213: 6859419828026863006
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_179
+  - first:
+      213: -2449745359704300683
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_180
+  - first:
+      213: -8136995074813541733
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_181
+  - first:
+      213: -1311507711057622494
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_182
+  - first:
+      213: -5611275605252900834
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_183
+  - first:
+      213: 3282486976449099182
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_184
+  - first:
+      213: -6093082485105937598
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_185
+  - first:
+      213: 5874052513016322215
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_186
+  - first:
+      213: -4581529804523301716
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_187
+  - first:
+      213: -3158315778422151865
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_188
+  - first:
+      213: -3124122603421665958
+    second: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+      - Bullets and Items_189
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 755
+        width: 258
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784fd1ff657b9c690800000000000000
+      internalID: -7581326913426295673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 706
+        width: 258
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ca407f3626cd350800000000000000
+      internalID: 6042812981509926043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_2
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 754
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f122579082d90b20800000000000000
+      internalID: 3101241268157686263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 755
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808da56a544d64e50800000000000000
+      internalID: 6793350483543775240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_4
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 690
+        width: 129
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b00f4ef88eaf3e0800000000000000
+      internalID: -2019045778203341937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_5
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 755
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf3d878d4907ad40800000000000000
+      internalID: 5595451290622443465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_6
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 755
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaeeccadfdb62e420800000000000000
+      internalID: 2657805339294756526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_7
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 755
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8eab6b59663a23b0800000000000000
+      internalID: -5536552965765353844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_8
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 755
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f5137b62a955a30800000000000000
+      internalID: 4203435318293127048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_9
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 755
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da7b79938504b230800000000000000
+      internalID: 3653551260478175954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_10
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 755
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43af8396983d11c0800000000000000
+      internalID: -4531403430692936885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_11
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 755
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa93cd317df3eac50800000000000000
+      internalID: 6678345490420742575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_12
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 755
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8663033ec277980800000000000000
+      internalID: -8541308814006785826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_13
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 755
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa3934c21f588a10800000000000000
+      internalID: 1911882576024910588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_14
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 691
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26271c3f1824cee0800000000000000
+      internalID: -1241823482630166998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_15
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 755
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9f790d019da5e80800000000000000
+      internalID: -8188994306177500731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_16
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 755
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cadfdae88ca861920800000000000000
+      internalID: 2960706399034539436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_17
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 755
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29fbcd7c2edfde90800000000000000
+      internalID: -6998631013240014548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_18
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 725
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04294170f1023e30800000000000000
+      internalID: 4481646711391462411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_19
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 691
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8877839c41fbb60800000000000000
+      internalID: 7763947137078364384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_20
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 711
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4bb57295c0326990800000000000000
+      internalID: -7394294013065053363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 562
+        width: 258
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ba466868897c7b0800000000000000
+      internalID: -5204023140855534833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_22
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 691
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4348c3665153210800000000000000
+      internalID: 1311978395294512323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_23
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 691
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2055aef5266a77f0800000000000000
+      internalID: -614066085810581457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_24
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 691
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6228ef7675ab730800000000000000
+      internalID: 4015618121917408967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_25
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 691
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13494ffa889e50000800000000000000
+      internalID: 1664148160418865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_26
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 691
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56915d0bc4772360800000000000000
+      internalID: 7144807749297215066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_27
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 691
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ca53402640642d0800000000000000
+      internalID: -3294941258351006577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_28
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 691
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c94d8c62198b4f00800000000000000
+      internalID: 1102125246045833671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_29
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 691
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a1b62f04ae55830800000000000000
+      internalID: 4059408203810282030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_30
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 691
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81cdff001eb1fd60800000000000000
+      internalID: 7922322195718455693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_31
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 691
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c2eedd66042b7c0800000000000000
+      internalID: -4057109503753180116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_32
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 691
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d523ba6952a8871c0800000000000000
+      internalID: -4505699533137956259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_33
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 691
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9208d114b05eb260800000000000000
+      internalID: 7115213195615666846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_34
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 691
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9479b834f01383930800000000000000
+      internalID: 4123099400485181257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_35
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 691
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bc91761d7748e30800000000000000
+      internalID: 4504857268538952539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_36
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 691
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d5aa4f129a13ad0800000000000000
+      internalID: -2724210336278618765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_37
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 691
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4847ca1a2e754daf0800000000000000
+      internalID: -372576238278249340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_38
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 627
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc00328e7cc8399f0800000000000000
+      internalID: -462871546468040501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_39
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 627
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec191a2f4d48d7570800000000000000
+      internalID: 8466068924665008590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_40
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 549
+        width: 131
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f44c135b26a4070800000000000000
+      internalID: 8091388210888068999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_41
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 594
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1e3b592e0b5cae0800000000000000
+      internalID: -1529622011201723970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_42
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 562
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d91c7c353c47d960800000000000000
+      internalID: 7626648285506968019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_43
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 514
+        width: 83
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c199c89c0a5f16170800000000000000
+      internalID: 8170081269951797532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_44
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 594
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d2ddb789ff76e80800000000000000
+      internalID: -8185292767344382575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_45
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 594
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd6a91ae0e4466c0800000000000000
+      internalID: -4151107131780993608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_46
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 594
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0872348a05a9240800000000000000
+      internalID: 4799237036528074989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_47
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 562
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b932505f5269dffb0800000000000000
+      internalID: -4612365353588808805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 531
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19411596e5e70430800000000000000
+      internalID: 3749217993315404061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_49
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 531
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64ee82ce92cfd510800000000000000
+      internalID: 1576192381727728748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_50
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 531
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786a93abd7a13ce40800000000000000
+      internalID: 5675409082714531463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_51
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 531
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36201719c7d6a740800000000000000
+      internalID: 5163051281502185018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_52
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 531
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4574481e871a3660800000000000000
+      internalID: 7366226039577802062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_53
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 531
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eca0d9d8c76465d0800000000000000
+      internalID: -3070214933614383900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_54
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 531
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098da47c13e927350800000000000000
+      internalID: 6013042389127190672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_55
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 531
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5dbfee5a769d880800000000000000
+      internalID: -8585717252228393491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_56
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 547
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b22bbf1ac2cd580800000000000000
+      internalID: -8801110497564677347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_57
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 547
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49450351e237c7130800000000000000
+      internalID: 3565851646731768980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_58
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 549
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc0162556e0dfce0800000000000000
+      internalID: -1369922883314185039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 514
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de92185dcd031d740800000000000000
+      internalID: 5174971171858360813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_60
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 516
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cf90e2432311000800000000000000
+      internalID: 4840274296175692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_61
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 516
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cca8e908d8a15a70800000000000000
+      internalID: 8814011591573417158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_62
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 516
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634e54ee5f6c90510800000000000000
+      internalID: 1515961509153727542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_63
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 516
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17055876479d76410800000000000000
+      internalID: 1470382897335980145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_64
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 516
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed97f5aaf4a1d64e0800000000000000
+      internalID: -1986902931137398306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_65
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 516
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e61f6c92ba33040800000000000000
+      internalID: 4626229438159351386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_66
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 516
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a76c54c7f53d3f0800000000000000
+      internalID: -877252515055895969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_67
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 516
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817053f75d3111360800000000000000
+      internalID: 7138508692042090264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_68
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 516
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ada2982ddca9610800000000000000
+      internalID: 1628840519375968875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_69
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 516
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae3b588e66830c60800000000000000
+      internalID: 7783212390318554794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_70
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 514
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7000d50ac9460ce70800000000000000
+      internalID: 9133410668175491079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_71
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 516
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8d03f8f49cd3cf0800000000000000
+      internalID: -270839059030419253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_72
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 515
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4d2d75aaf4f43e0800000000000000
+      internalID: -2067346110903298882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_73
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 515
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee32c2439cb55b50800000000000000
+      internalID: 6581373771138088678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_74
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 520
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4a6331998f63b60800000000000000
+      internalID: 7725635547136697585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 482
+        width: 258
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15280a9a4aa8a7490800000000000000
+      internalID: -7747727769112378799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 418
+        width: 258
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda53b4d61b4f51c0800000000000000
+      internalID: -4512805740172059940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_77
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 482
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b2bad0d6bb5b4b0800000000000000
+      internalID: -5425224099042743548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_78
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 482
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55cd8d4cfca06be00800000000000000
+      internalID: 1060046649769385045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_79
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 482
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7cc9dd58216568d0800000000000000
+      internalID: -2853767962868200321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_80
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 482
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1e1545d8e9cc4a0800000000000000
+      internalID: -6571703426398166540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_81
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 482
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51fe3fedf4620a00800000000000000
+      internalID: 721249932136083807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_82
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 482
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67810693d4ef15ee0800000000000000
+      internalID: -1273957611940603786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_83
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 482
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0868d581348c7aa0800000000000000
+      internalID: -6161904841915865078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_84
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 482
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11b4878b175bb480800000000000000
+      internalID: -8882410064308817634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_85
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 353
+        width: 26
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03892cdf9ae220e00800000000000000
+      internalID: 1009420574126151728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_86
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 353
+        width: 26
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c55c4199da22230800000000000000
+      internalID: 3612640724094639158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_87
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 353
+        width: 26
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f8d0b1226ef3fe0800000000000000
+      internalID: -1206993140954853522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_88
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 353
+        width: 26
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2666e3e7129a0150800000000000000
+      internalID: 5839640498144699950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_89
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 353
+        width: 26
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82afbd7d01aad5de0800000000000000
+      internalID: -1342730124568823256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_90
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 353
+        width: 26
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafe23d45ddac5250800000000000000
+      internalID: 5934809540602294191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_91
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 353
+        width: 26
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75edf45baf79d88d0800000000000000
+      internalID: -2842448686761386409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_92
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 353
+        width: 26
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3728d980c7aa1ea80800000000000000
+      internalID: -8439276777018391949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_93
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 418
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daeb688b7b461e040800000000000000
+      internalID: 4675128628424916653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1up
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 403
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cc75d05f6f1a720800000000000000
+      internalID: 2855835171080883229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_95
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 418
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2ca2742a786d2b0800000000000000
+      internalID: -5560107558893862184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_96
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 418
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ec8588c3d1165b0800000000000000
+      internalID: -5376984334280896997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_97
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 404
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df97947e7c705c000800000000000000
+      internalID: 55459125572237821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_98
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 404
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b15f462bfce3720800000000000000
+      internalID: 2827925981140163358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_99
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 404
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42e703a699684440800000000000000
+      internalID: 4920298688603480654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_100
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 404
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4caada529520ff0800000000000000
+      internalID: -71396625722194700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_101
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 407
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719d6ac68dd8a8f50800000000000000
+      internalID: 6884470941064550679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_102
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 418
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59183bf26a0b28e0800000000000000
+      internalID: -1717267412673881763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_103
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 404
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8cae2289c037420800000000000000
+      internalID: 2626456855247505619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_104
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 404
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e643d3e253f171d0800000000000000
+      internalID: -3354632710079166743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_105
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 404
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7962ee2e48e3f7c30800000000000000
+      internalID: 4359271704781792919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_106
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 387
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c59e3d176ff4c00800000000000000
+      internalID: 887198620362300556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: power
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 402
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2eef5f6482ce100800000000000000
+      internalID: 138529973781586610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_108
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 402
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6b191e3f3440190800000000000000
+      internalID: -7997192323562621213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_109
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 387
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5009af759adb7c6c0800000000000000
+      internalID: -4123118398811238395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_110
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 387
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9eda0457dca3c90800000000000000
+      internalID: -7189207951663568407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_111
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 387
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9770dc8fdb2217770800000000000000
+      internalID: 8606698562200078201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_112
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 387
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b5e0e51615ff3e0800000000000000
+      internalID: -2017804629407016133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_113
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 387
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac76863dfb7266e0800000000000000
+      internalID: -1845776569796756307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_114
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 391
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feab3d70e8f52a170800000000000000
+      internalID: 8188212136134294255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_115
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 391
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73bbf6662b435eed0800000000000000
+      internalID: -2385442486795388105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_116
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 387
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffe8b6a99d91dc60800000000000000
+      internalID: 7841221709481439221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_117
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 375
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c3172db8fc188d0800000000000000
+      internalID: -2845765290083402751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_118
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 369
+        width: 146
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17b204f913c20bd0800000000000000
+      internalID: -2665353513214494948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_119
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 322
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ada49a089f28ad40800000000000000
+      internalID: 5595774867066891685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_120
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 322
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f9a124e3b369a00800000000000000
+      internalID: 762862325468929912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_121
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 322
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3e68e5c42f68d30800000000000000
+      internalID: 4433497293010166764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_122
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 322
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331fb5d2e2b878ba0800000000000000
+      internalID: -6086743340922179277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_123
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 322
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2a8d9f2cd700080800000000000000
+      internalID: -9223233760485924157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_124
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 322
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb23eccdd0dac6f50800000000000000
+      internalID: 6876061006138585790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_125
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 322
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa80dbfcc30e23c10800000000000000
+      internalID: 2031932933685446831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_126
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 322
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df05cd0f6aef45530800000000000000
+      internalID: 3842976375012872445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_127
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 349
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee42852558e2dce50800000000000000
+      internalID: 6831167359937946862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_128
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 349
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66dfcdf6b97eb27f0800000000000000
+      internalID: -636160267560092314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_129
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 349
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2618dd3b6435ddb0800000000000000
+      internalID: -4767846995298085332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_130
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 349
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3cf93a1ebb877140800000000000000
+      internalID: 4717392783293938746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_131
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 349
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4164bebfa85437530800000000000000
+      internalID: 3851498569566209556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_132
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 349
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56956b100c2b9ad0800000000000000
+      internalID: -2694511573079845286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_133
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 325
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c526421894f3c8f80800000000000000
+      internalID: -8103032044614557092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_134
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 325
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f50d64dd9061070800000000000000
+      internalID: 8076653827716046605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_135
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 325
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbaaefa26124a080800000000000000
+      internalID: -9177173432932324359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_136
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 325
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74e29a729b4ab2c0800000000000000
+      internalID: -4415133392189594498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_137
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 325
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974bf3a828a7f1f50800000000000000
+      internalID: 6854331858964952185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_138
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 325
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2728b22fd6cff8e40800000000000000
+      internalID: 5661020805772575346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_139
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 258
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a245c3e8aa5bf20800000000000000
+      internalID: 3437841418441468563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_140
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 258
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8dcb3a55173fbd0800000000000000
+      internalID: -2597607947429422909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_141
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 258
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226f57699dac0a560800000000000000
+      internalID: 7323076029985453602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_142
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 258
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5453405bfa3823040800000000000000
+      internalID: 4625904557942388037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_143
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 307
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328c9dea7b54d7a10800000000000000
+      internalID: 1908758472289798179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_144
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 307
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e73f673b59d97620800000000000000
+      internalID: 2772486031418537961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_145
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 307
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: decf5f64012abd150800000000000000
+      internalID: 5898486327765499117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_146
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 307
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59852623cd603610800000000000000
+      internalID: 1598898552642570588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_147
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 273
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76cfd85f965088240800000000000000
+      internalID: 4794087755985321063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_148
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 307
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23798fea5d4649e50800000000000000
+      internalID: 6815183005044741938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_149
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 307
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa658d4afa143b70800000000000000
+      internalID: 8877750427798825722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_150
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 307
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740aebb19c6e1ca10800000000000000
+      internalID: 1928075866919575623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_151
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 307
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331c3eb4f200def70800000000000000
+      internalID: 9218024215433953587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_152
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 307
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ac7234c1ce17cb0800000000000000
+      internalID: -4867850116080874990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_153
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 307
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698422ae1f3b59dd0800000000000000
+      internalID: -2479878168200984426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_154
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 307
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7ccd76d809fd9b0800000000000000
+      internalID: -5053161319879096364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_155
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 307
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa0e9f3aa7b1c920800000000000000
+      internalID: 3008887967899847329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_156
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 307
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e7b8bbb7b81d4e0800000000000000
+      internalID: -1958630999385735653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_157
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 307
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a953a80ca9e197b90800000000000000
+      internalID: -7243724875644652134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_158
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 307
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1263193fbc57b10800000000000000
+      internalID: 1978711858272936388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_159
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 307
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea835b4ab8c94bd60800000000000000
+      internalID: 7905115369519790254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_160
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 273
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14273b6df3dde4b30800000000000000
+      internalID: 4273596362675941953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_161
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 273
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e826792e64c6a470800000000000000
+      internalID: 8405621731954665705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_162
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 273
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f756fbcf6ade15a30800000000000000
+      internalID: 4202401228774139263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_163
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 244
+        width: 250
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c2b197a5d6d3bf0800000000000000
+      internalID: -342997761263981425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_164
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 128
+        width: 69
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827a67f2907677650800000000000000
+      internalID: 6230561898639042344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_165
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 128
+        width: 14
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa3a8fa480612300800000000000000
+      internalID: 225567579342256891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_166
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 128
+        width: 15
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff9a07450a3b11b0800000000000000
+      internalID: -5684886310283993089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_167
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 211
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80cd511a86953b5a0800000000000000
+      internalID: -6506758730706199544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_168
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 215
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43f39dbfd0e71090800000000000000
+      internalID: -8063729356220665012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_169
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 249
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a626a0c67d51960800000000000000
+      internalID: 7572195207524018713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_170
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 249
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a083c356a292ff80800000000000000
+      internalID: -8074229938854330204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_171
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 249
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ef27669dc703c00800000000000000
+      internalID: 878339200505806378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_172
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 228
+        width: 250
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ee7d88ab0b874f0800000000000000
+      internalID: -830719816043598321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_173
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 172
+        width: 12
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ee7602b1786b500800000000000000
+      internalID: 411664966528528015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_174
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 214
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c9f219948bd9410800000000000000
+      internalID: 1485546078210071552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_175
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 212
+        width: 250
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c904bcbabc4b38220800000000000000
+      internalID: 2487030206092230812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_176
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 196
+        width: 250
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e37606659924e30800000000000000
+      internalID: 4486316775078051392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_177
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 180
+        width: 250
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20c11452ebb04030800000000000000
+      internalID: 3476985493077475374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_178
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 164
+        width: 250
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492e8838261a17660800000000000000
+      internalID: 7381858708722606740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_179
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 144
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9defc6adfd813f50800000000000000
+      internalID: 6859419828026863006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_180
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 148
+        width: 250
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573e9ac1391c00ed0800000000000000
+      internalID: -2449745359704300683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_181
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 132
+        width: 250
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92c2a25716931f80800000000000000
+      internalID: -8136995074813541733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_182
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 116
+        width: 250
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a893a7fa69ccde0800000000000000
+      internalID: -1311507711057622494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_183
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 100
+        width: 250
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18f51c119eb022b0800000000000000
+      internalID: -5611275605252900834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_184
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 84
+        width: 250
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea53813838cbd8d20800000000000000
+      internalID: 3282486976449099182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_185
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 68
+        width: 250
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2433b1823c5017ba0800000000000000
+      internalID: -6093082485105937598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_186
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 52
+        width: 250
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8145673a3d48150800000000000000
+      internalID: 5874052513016322215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_187
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 36
+        width: 250
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca41681bae22b60c0800000000000000
+      internalID: -4581529804523301716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_188
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 20
+        width: 250
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745e2a278886b24d0800000000000000
+      internalID: -3158315778422151865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous
+        - Bullets and Items_189
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 250
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5578446b03e4a4d0800000000000000
+      internalID: -3124122603421665958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fd9f0a3cc9bd8044683e50263eac0c28
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      1up: 2855835171080883229
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_0: -7581326913426295673
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_1: 6042812981509926043
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_10: -4531403430692936885
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_100: -71396625722194700
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_101: 6884470941064550679
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_102: -1717267412673881763
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_103: 2626456855247505619
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_104: -3354632710079166743
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_105: 4359271704781792919
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_106: 887198620362300556
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_108: -7997192323562621213
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_109: -4123118398811238395
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_11: 6678345490420742575
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_110: -7189207951663568407
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_111: 8606698562200078201
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_112: -2017804629407016133
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_113: -1845776569796756307
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_114: 8188212136134294255
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_115: -2385442486795388105
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_116: 7841221709481439221
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_117: -2845765290083402751
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_118: -2665353513214494948
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_119: 5595774867066891685
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_12: -8541308814006785826
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_120: 762862325468929912
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_121: 4433497293010166764
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_122: -6086743340922179277
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_123: -9223233760485924157
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_124: 6876061006138585790
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_125: 2031932933685446831
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_126: 3842976375012872445
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_127: 6831167359937946862
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_128: -636160267560092314
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_129: -4767846995298085332
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_13: 1911882576024910588
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_130: 4717392783293938746
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_131: 3851498569566209556
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_132: -2694511573079845286
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_133: -8103032044614557092
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_134: 8076653827716046605
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_135: -9177173432932324359
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_136: -4415133392189594498
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_137: 6854331858964952185
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_138: 5661020805772575346
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_139: 3437841418441468563
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_14: -1241823482630166998
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_140: -2597607947429422909
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_141: 7323076029985453602
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_142: 4625904557942388037
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_143: 1908758472289798179
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_144: 2772486031418537961
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_145: 5898486327765499117
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_146: 1598898552642570588
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_147: 4794087755985321063
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_148: 6815183005044741938
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_149: 8877750427798825722
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_15: -8188994306177500731
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_150: 1928075866919575623
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_151: 9218024215433953587
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_152: -4867850116080874990
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_153: -2479878168200984426
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_154: -5053161319879096364
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_155: 3008887967899847329
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_156: -1958630999385735653
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_157: -7243724875644652134
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_158: 1978711858272936388
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_159: 7905115369519790254
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_16: 2960706399034539436
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_160: 4273596362675941953
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_161: 8405621731954665705
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_162: 4202401228774139263
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_163: -342997761263981425
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_164: 6230561898639042344
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_165: 225567579342256891
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_166: -5684886310283993089
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_167: -6506758730706199544
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_168: -8063729356220665012
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_169: 7572195207524018713
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_17: -6998631013240014548
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_170: -8074229938854330204
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_171: 878339200505806378
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_172: -830719816043598321
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_173: 411664966528528015
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_174: 1485546078210071552
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_175: 2487030206092230812
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_176: 4486316775078051392
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_177: 3476985493077475374
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_178: 7381858708722606740
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_179: 6859419828026863006
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_18: 4481646711391462411
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_180: -2449745359704300683
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_181: -8136995074813541733
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_182: -1311507711057622494
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_183: -5611275605252900834
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_184: 3282486976449099182
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_185: -6093082485105937598
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_186: 5874052513016322215
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_187: -4581529804523301716
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_188: -3158315778422151865
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_189: -3124122603421665958
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_19: 7763947137078364384
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_2: 3101241268157686263
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_20: -7394294013065053363
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_21: -5204023140855534833
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_22: 1311978395294512323
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_23: -614066085810581457
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_24: 4015618121917408967
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_25: 1664148160418865
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_26: 7144807749297215066
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_27: -3294941258351006577
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_28: 1102125246045833671
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_29: 4059408203810282030
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_3: 6793350483543775240
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_30: 7922322195718455693
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_31: -4057109503753180116
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_32: -4505699533137956259
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_33: 7115213195615666846
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_34: 4123099400485181257
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_35: 4504857268538952539
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_36: -2724210336278618765
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_37: -372576238278249340
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_38: -462871546468040501
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_39: 8466068924665008590
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_4: -2019045778203341937
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_40: 8091388210888068999
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_41: -1529622011201723970
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_42: 7626648285506968019
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_43: 8170081269951797532
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_44: -8185292767344382575
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_45: -4151107131780993608
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_46: 4799237036528074989
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_47: -4612365353588808805
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_48: 3749217993315404061
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_49: 1576192381727728748
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_5: 5595451290622443465
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_50: 5675409082714531463
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_51: 5163051281502185018
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_52: 7366226039577802062
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_53: -3070214933614383900
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_54: 6013042389127190672
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_55: -8585717252228393491
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_56: -8801110497564677347
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_57: 3565851646731768980
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_58: -1369922883314185039
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_59: 5174971171858360813
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_6: 2657805339294756526
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_60: 4840274296175692
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_61: 8814011591573417158
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_62: 1515961509153727542
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_63: 1470382897335980145
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_64: -1986902931137398306
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_65: 4626229438159351386
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_66: -877252515055895969
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_67: 7138508692042090264
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_68: 1628840519375968875
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_69: 7783212390318554794
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_7: -5536552965765353844
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_70: 9133410668175491079
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_71: -270839059030419253
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_72: -2067346110903298882
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_73: 6581373771138088678
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_74: 7725635547136697585
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_75: -7747727769112378799
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_76: -4512805740172059940
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_77: -5425224099042743548
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_78: 1060046649769385045
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_79: -2853767962868200321
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_8: 4203435318293127048
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_80: -6571703426398166540
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_81: 721249932136083807
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_82: -1273957611940603786
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_83: -6161904841915865078
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_84: -8882410064308817634
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_85: 1009420574126151728
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_86: 3612640724094639158
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_87: -1206993140954853522
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_88: 5839640498144699950
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_89: -1342730124568823256
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_9: 3653551260478175954
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_90: 5934809540602294191
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_91: -2842448686761386409
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_92: -8439276777018391949
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_93: 4675128628424916653
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_95: -5560107558893862184
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_96: -5376984334280896997
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_97: 55459125572237821
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_98: 2827925981140163358
+      PC _ Computer - Touhou Seirensen (Undefined Fantastic Object) - Miscellaneous - Bullets and Items_99: 4920298688603480654
+      power: 138529973781586610
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

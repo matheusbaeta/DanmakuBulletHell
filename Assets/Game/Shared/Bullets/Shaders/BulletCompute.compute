@@ -1,0 +1,58 @@
+#pragma kernel CSMain
+
+struct BulletData
+{
+    float3 position;
+    float3 direction;
+    float radius;
+    float alive;
+    float2 uvOffset;
+    float2 uvSize;
+    float2 uvScale;
+};
+
+RWStructuredBuffer<BulletData> bullets;
+RWStructuredBuffer<float4x4> matrices;
+RWStructuredBuffer<uint> playerHitBuffer;
+
+float3 playerPosition;
+float playerHitDistance;
+
+float maxX;
+float maxY;
+
+float deltaTime;
+int bulletCount;
+
+[numthreads(256, 1, 1)]
+void CSMain(uint3 id : SV_DispatchThreadID)
+{
+    uint i = id.x;
+    if (i >= bulletCount)
+        return;
+
+    BulletData b = bullets[i];
+    if (b.alive < 0.5)
+        return;
+
+    // Move bullet
+    b.position += b.direction * deltaTime;
+
+    // Kill if outside bounds
+    if (abs(b.position.x) > maxX || abs(b.position.y) > maxY)
+        b.alive = 0;
+
+    if (distance(b.position, playerPosition) < (playerHitDistance + b.radius))
+        playerHitBuffer[0] = 1;
+
+    bullets[i] = b;
+
+    // Create transform matrix
+    float4x4 m = float4x4(
+        b.uvScale.x, 0, 0, b.position.x,
+        0, b.uvScale.y, 0, b.position.y,
+        0, 0, 1, b.position.z,
+        0, 0, 0, 1
+    );
+    matrices[i] = m;
+}
