@@ -22,7 +22,9 @@ This project demonstrates a robust Bullet Hell framework capable of rendering an
 |----------|--------------|
 | ![Gameplay Start](Docs/Images/Gameplay_Start.png) | ![Boss Pattern](Docs/Images/Circular_Pattern.png) |
 
-![Boss Radial Pattern](Docs/Images/Boss_Pattern.png) | ![Boss Radial Pattern](Docs/Images/Boss_Level_2_Pattern.png) |
+|  |  |
+|--|--|
+| ![Boss Radial Pattern](Docs/Images/Boss_Pattern.png) | ![Boss Level 2 Pattern](Docs/Images/Boss_Level_2_Pattern.png) |
 
 ## Controls
 
