@@ -1,7 +1,8 @@
 # Danmaku Bullet Hell
 
 A high-performance Danmaku Bullet Hell game built in Unity, featuring massive bullet counts, complex patterns, and GPU-accelerated rendering.
-
+|  |  |
+|--|--|
 ![Level Selection](Docs/Images/LevelSelection.png)
 
 ## Overview
