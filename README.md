@@ -1,51 +1,53 @@
-# DanmakuBulletHell
+# Danmaku Bullet Hell
 
-DanmakuBulletHell is a bullet hell (danmaku) shooter game framework made with Unity. Bullet hell games are known for their visually stunning, challenging gameplay where players dodge intricate patterns of projectiles while battling enemies and bosses. This project provides a foundation for developing such games in Unity, including reusable systems for bullet patterns, enemy behaviors, collision detection, and more.
+A high-performance Danmaku Bullet Hell game built in Unity, featuring massive bullet counts, complex patterns, and GPU-accelerated rendering.
+
+![Level Selection](Docs/Images/LevelSelection.png)
+
+## Overview
+
+This project demonstrates a robust Bullet Hell framework capable of rendering and updating thousands of bullets simultaneously. It includes a wave-based level system, various enemy types, and a player with upgradeable power-ups.
 
 ## Features
 
-- **Flexible Bullet Pattern System:** Easily create complex bullet arrangements such as waves, spirals, and custom shapes.
-- **Enemy and Boss Framework:** Manage enemies and multi-phase boss fights with customizable AI.
-- **Collision Detection:** Precise collision handling for bullets, enemies, and the player ship.
-- **Player Controls:** Responsive, fine-tuned movement and shooting mechanics.
-- **Extensible Architecture:** Add new patterns, enemies, or features effortlessly thanks to a modular design.
-- **Difficulty Scaling:** Customize bullet density, speed, and improve the challenge for all skill levels.
+-   **High-Performance Bullet System**: Utilizing Compute Shaders and GPU Instancing to handle 10,000+ bullets with high frame rates.
+-   **Complex Patterns**: Support for diverse bullet patterns including spirals, circles, and aimed shots.
+-   **Wave System**: ScriptableObject-based level data defining background, soundtrack, and enemy waves.
+-   **Power-ups**: Collectible items to heal the player and increase bullet damage.
+-   **Input System**: Modern Unity Input System support for Keyboard and Gamepad.
+
+## Visuals
+
+| Gameplay | Boss Pattern |
+|----------|--------------|
+| ![Gameplay Start](Docs/Images/Gameplay_Start.png) | ![Boss Pattern](Docs/Images/Circular_Pattern.png) |
+
+![Boss Radial Pattern](Docs/Images/Boss_Pattern.png)
 
 ## Controls
 
-- **Arrow Keys / WASD:** Move the player.
-- **Z / Space:** Shoot.
-- **Esc / P:** Pause or exit.
+-   **Movement**: `WASD`, `Arrow Keys`, or `Gamepad Left Stick`.
+-   **Shooting**: Automatic.
+-   **Focus Mode**: (If implemented) likely `Shift` or a designated button to slow movement for precision.
 
-## Project Structure
+## Technical Details
 
-```
-DanmakuBulletHell/
-├── Assets/
-│   ├── Scenes/
-│   ├── Scripts/
-│   ├── Prefabs/
-│   ├── Sprites/
-│   └── ...
-├── ProjectSettings/
-└── README.md
-```
+### Bullet System
+The core of this project is the `BulletSystem`, designed for extreme performance:
+-   **Compute Shaders**: All bullet movement, lifetime management, and collision checks against the player are calculated on the GPU via `BulletCompute.compute` (referenced in `BulletSystem.cs`).
+-   **GPU Instancing**: The `GPUInstanceBatch.cs` script uses `Graphics.DrawMeshInstancedIndirect` to render all bullets in a single draw call, bypassing the overhead of GameObjects.
+-   **Shared Data**: A `BulletData` struct is shared between C# and HLSL to maintain state synchronization.
 
-- `Scenes/`: Unity scene files.
-- `Scripts/`: C# scripts for gameplay logic.
-- `Prefabs/`: Reusable game objects.
-- `Sprites/`: Art assets.
+### Project Structure
+-   **Assets/Framework**: Contains core systems like `Gameplay`, `Level`, `Enemies`, and `EnemyData`.
+-   **Assets/Game**: Contains game-specific content including `Scenes`, `Shared` resources (Prefabs, Sprites, Scripts).
 
-## Building the Game
+## Installation
 
-1. In Unity, go to **File > Build Settings**.
-2. Add the main scene to the build.
-3. Choose your target platform (Windows, macOS, Linux, WebGL, etc.).
-4. Click **Build** and select your output folder.
-
-The built executable/app can now be distributed or played independently of the Unity editor.
+1.  Open the project in **Unity 6000.2.9f1** or later.
+2.  Open the `Assets/Game/Scenes/MainMenu` scene.
+3.  Press **Play** to start the game.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
+This project is for educational and portfolio purposes.

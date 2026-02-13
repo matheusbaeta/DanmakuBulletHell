@@ -151,7 +151,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Boss2Enemy
   droppedItem: {fileID: 3108351116337096586, guid: 641c5b880e295544c9d5f29959c5476d, type: 3}
-  totalLife: 8100
+  totalLife: 7800
   pattern1_waves: 8
   pattern1_bulletsPerWave: 12
   pattern1_waveSpread: 60
