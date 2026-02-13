@@ -26,7 +26,7 @@ This project demonstrates a robust Bullet Hell framework capable of rendering an
 
 ## Controls
 
--   **Movement**: `WASD`, `Arrow Keys`, or `Gamepad Left Stick`.
+-   **Movement**: `Touch Screen` (Mobile), `Touchpad`, or `Mouse Drag`.
 -   **Shooting**: Automatic.
 -   **Focus Mode**: (If implemented) likely `Shift` or a designated button to slow movement for precision.
 
