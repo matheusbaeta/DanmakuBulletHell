@@ -14,7 +14,7 @@ This project demonstrates a robust Bullet Hell framework capable of rendering an
 -   **Complex Patterns**: Support for diverse bullet patterns including spirals, circles, and aimed shots.
 -   **Wave System**: ScriptableObject-based level data defining background, soundtrack, and enemy waves.
 -   **Power-ups**: Collectible items to heal the player and increase bullet damage.
--   **Input System**: Modern Unity Input System support for Keyboard and Gamepad.
+-   **Input System**: Modern Unity Input System support for mobile and desktop environments.
 
 ## Visuals
 
@@ -22,7 +22,7 @@ This project demonstrates a robust Bullet Hell framework capable of rendering an
 |----------|--------------|
 | ![Gameplay Start](Docs/Images/Gameplay_Start.png) | ![Boss Pattern](Docs/Images/Circular_Pattern.png) |
 
-![Boss Radial Pattern](Docs/Images/Boss_Pattern.png)
+![Boss Radial Pattern](Docs/Images/Boss_Pattern.png) | ![Boss Radial Pattern](Docs/Images/Boss_Level_2_Pattern.png) |
 
 ## Controls
 
